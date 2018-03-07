@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome!"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Biswarup Mukherjee"
 description              : &description "personal description"
 url                      : #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,7 @@ analytics:
 author:
   name             : "Biswarup Mukherjee"
   avatar           : "profile.png"
-  bio              : "Research assistant @ IIT-Bombay, 
-                      Member @ALSETLab-USA"
+  bio              : "Member @ALSETLab-USA"
   location         : "India"
   employer         :
   googlescholar    : 
