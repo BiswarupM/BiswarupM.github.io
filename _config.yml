@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  "3.jpg"
+teaser                   :  #"3.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Biswarup Mukherjee"
-  avatar           : "profile.png"
+  avatar           : "3.jpg"
   bio              : "Member @ALSETLab-USA"
   location         : "India"
   employer         :
