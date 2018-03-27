@@ -65,3 +65,10 @@ Teaching
 Personal interests
 ======
 * Photography, Painting, Badminton, Cricket, Chess, Singing.
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: true
