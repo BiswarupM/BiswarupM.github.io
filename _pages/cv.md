@@ -27,7 +27,6 @@ Work experience
   * Duties included: Power systems modeling and development of OpenIPSL library.
   * Supervisor: Professor Kannan Moudgalya
 
-======
 
 * February 2017-December 2017: Research Intern/ M.S Thesis Student
   * KTH-Royal Institute of Technology, Sweden (SmarTS Lab)
