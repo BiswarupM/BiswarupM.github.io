@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D (expected to join soon)
-* M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017 <img align="right" src="https://github.com/BiswarupM/BiswarupM.github.io/images/inpgGINP.jpg">
+* M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017 <img align="right" "inpgGINP.jpg">
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India, 2015
 * B.Sc.(Honours) in Physics, University of Burdwan, India, 2012
 
