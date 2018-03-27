@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D (expected to join soon)
-* M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017, <img src="/images/inpgGINP.jpg" align="left" style="width:5%;height:5%;margin:5px 5px">
+* M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017, <img src="/images/inpgGINP.jpg" class="img-left" alt=""> 
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India, 2015
 * B.Sc.(Honours) in Physics, University of Burdwan, India, 2012
 
