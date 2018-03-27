@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D (expected to join soon)
-* M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017, <img src="/images/inpgGINP.jpg">
+* M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017, <img src="/images/inpgGINP.jpg" align="left" style="width:5%;height:5%;margin:5px 5px">
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India, 2015
 * B.Sc.(Honours) in Physics, University of Burdwan, India, 2012
 
@@ -66,9 +66,4 @@ Personal interests
 ======
 * Photography, Painting, Badminton, Cricket, Chess, Singing.
 
-# Select which share links to show in posts
-share-links-active:
-  twitter: true
-  facebook: true
-  google: false
-  linkedin: true
+
