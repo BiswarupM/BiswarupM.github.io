@@ -12,17 +12,22 @@ redirect_from:
 Education
 ======
 * Ph.D (expected to join soon)
-* M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017
+* M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017 <p align="right">
+  <img src="doc/subpagelist.png" />
+</p>
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India, 2015
 * B.Sc.(Honours) in Physics, University of Burdwan, India, 2012
 
 
 Work experience
 ======
+
 * April 2018- Present: Research Assistant
   * Indian Institute of Technology Bombay, India
   * Duties included: Power systems modeling and development of OpenIPSL library.
   * Supervisor: Professor Kannan Moudgalya
+
+======
 
 * February 2017-December 2017: Research Intern/ M.S Thesis Student
   * KTH-Royal Institute of Technology, Sweden (SmarTS Lab)
@@ -36,28 +41,28 @@ Skills
   * PSSE
   * PSAT
   * HOMER
-* Electrical Engineering
-* MATLAB
+* Electrical Engineering, Power Electronics
+* MATLAB, PSIM, PSpice, Arduino, JAVA(Basic knowledge)
 * Research
 
-//Publications
+Publications
 ======
-  //<ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-//Talks
+Talks
 ======
- // <ul>{% for post in site.talks %}
+ <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-//Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Personal interests
 ======
-* Currently signed in to 43 different slack teams
+* Photography, Painting, Badminton, Cricket, Chess, Singing.
