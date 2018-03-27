@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D (expected to join soon)
 * M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017 <p align="right">
-  <img src="doc/subpagelist.png" />
+  <img src="inpgGINP.jpg" />
 </p>
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India, 2015
 * B.Sc.(Honours) in Physics, University of Burdwan, India, 2012
@@ -27,7 +27,7 @@ Work experience
   * Duties included: Power systems modeling and development of OpenIPSL library.
   * Supervisor: Professor Kannan Moudgalya
 
-
+----
 * February 2017-December 2017: Research Intern/ M.S Thesis Student
   * KTH-Royal Institute of Technology, Sweden (SmarTS Lab)
   * Duties included: During my thesis task included the work on ITEA3 European Project openCPS (https://itea3.org/project/opencps.html). During the project SmarTS Lab research team and Siemens Turbomachinery for the development of control systems for gas turbine-based generators to operate as DER, mainly, for re-synchronization, and islanded operation. The control systems has been evaluated using both power system modeling approaches and also the multi-domain (thermo-mechanical and electrical) modeling approach using the Modelica language.
@@ -56,7 +56,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+#Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
