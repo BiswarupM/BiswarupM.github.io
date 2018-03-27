@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D (expected to join soon)
-* M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017 <img align="right" src="BiswarupM.github.io/images/inpgGINP.jpg">
+* M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017 <img align="right" src="https://github.com/BiswarupM/BiswarupM.github.io/images/inpgGINP.jpg">
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India, 2015
 * B.Sc.(Honours) in Physics, University of Burdwan, India, 2012
 
@@ -23,6 +23,8 @@ Work experience
   * Indian Institute of Technology Bombay, India
   * Duties included: Power systems modeling and development of OpenIPSL library.
   * Supervisor: Professor Kannan Moudgalya
+
+
 ----
 * February 2017-December 2017: Research Intern/ M.S Thesis Student
   * KTH-Royal Institute of Technology, Sweden (SmarTS Lab)
