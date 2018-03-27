@@ -14,6 +14,7 @@ Education
 
 ----
 <img src="/images/inpgGINP.jpg" width="85" height="70">    <img src="/images/logoCU.png" width="70"  height="70">    <img src="/images/University-of-Burdwan-Logo.jpg" width="88"  height="70"> 
+
 ----
 * Ph.D (expected to join soon)
 * M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017   
@@ -27,6 +28,7 @@ Work experience
 
 ----
 <img src="/images/IIT Bombay_Logo_JPG_0.jpg" width="70" height="70">    <img src="/images/kth.jpg" width="65"  height="65"> 
+
 ----
 
 * April 2018- Present: Research Assistant
