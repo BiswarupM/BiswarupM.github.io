@@ -31,9 +31,9 @@ Work experience
 
 ----
 
-* April 2018- Present: Research Assistant
+* April 2018- Present: Project Research Associate
   * Indian Institute of Technology Bombay, India
-  * Duties included: Power systems modeling and development of OpenIPSL library.
+  * Duties included: Power systems modeling and development of OpenIPSL library in association with Rensselaer Polytechnic Institute (RPI), USA
   * Supervisor: Professor Kannan Moudgalya
 
 
