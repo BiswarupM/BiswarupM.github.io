@@ -1,7 +1,6 @@
 ---
 title: "Modeling of PMU-Based Islanded Operation Controls for Power Distribution Networks using Modelica and OpenIPSL"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 date: 2018-10-09
 venue: 'American Modelica Conference, Cambridge, MA, USA'
 paperurl: 'http://biswarupm.github.io/files/Modelica2018US_paper_151.pdf'
