@@ -2,9 +2,8 @@
 layout: archive
 title: "Teaching"
 permalink: /Teaching/
-author_profile: true
-redirect_from:
-  - /Teaching
+author_profile: False
+
 
 ---
 *Will be updated shortly*
