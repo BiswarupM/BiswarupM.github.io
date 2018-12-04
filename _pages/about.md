@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there! Welcome to my personal website"
+title: "Hi there! Welcome to my website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
----
-About me
----
-Experienced Project Research Associate with a demonstrated history of working in the higher education industry. Biswarup is a strong research professional in Power systems dynamics, modeling and simulation.
 
-*This website that is still under development, soon it will be updated. I hope you will find this useful.
+About me
+
+I am an experienced research professional having a demonstrated history of working in the higher education industry. My area of research includes Power systems dynamics, modeling and simulation.
+
+*This website that is still under development, soon it will be updated. I hope you will find this useful.*
 
 
