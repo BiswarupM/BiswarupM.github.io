@@ -7,7 +7,7 @@ redirect_from:
 
 ---
 
-*Information will be updated shortly*
+
 
 
 
