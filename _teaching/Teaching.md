@@ -1,8 +1,13 @@
 ---
 layout: archive
-title: "Teaching information will be updated shortly"
+title: "Teaching"
+author_profile: true
+redirect_from:
+  - /resume
 
 ---
+
+*Information will be updated shortly*
 
 
 
