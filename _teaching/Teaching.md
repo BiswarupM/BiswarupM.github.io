@@ -1,7 +1,6 @@
 ---
-layout: archive
-title: "*Will be updated shortly*"
-permalink: /Teching/
+
+title: "Will be updated shortly"
 
 ---
 
