@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "Teaching"
-*Will be updated shortly*
+Will be updated shortly
+
 ---
 
 
