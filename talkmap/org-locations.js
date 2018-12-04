@@ -5,14 +5,14 @@ var addressPoints = [
     72.9092113631
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Kolkata, India",
+    22.5726, 
+    88.3639
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Grenoble, France",
+    45.1885, 
+    5.7245
   ],
   [
     "Linköping, Sweden",
