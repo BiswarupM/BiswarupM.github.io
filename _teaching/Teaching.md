@@ -1,7 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
-Will be updated shortly
+title: "Teaching information will be updated shortly"
 
 ---
 
