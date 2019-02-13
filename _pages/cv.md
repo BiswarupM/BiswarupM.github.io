@@ -54,14 +54,6 @@ Skills
 * MATLAB, PSIM, PSpice, Arduino, JAVA(Basic knowledge)
 * Research
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-  
 Personal interests
 ======
 * Photography, Painting, Badminton, Cricket, Chess, Singing.
