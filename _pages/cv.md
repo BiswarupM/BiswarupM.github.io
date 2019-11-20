@@ -24,10 +24,12 @@ Education
 
 Work experience
 ======
-* April 2018 - November 2019: Project Research Associate
+* April 2018 to November 2019: Project Research Associate
   * Indian Institute of Technology Bombay, India        
-* February 2017 - December 2017: Research Intern/ M.S Thesis Student  
+* February 2017 to December 2017: Research Intern/ M.S Thesis Student  
   * KTH-Royal Institute of Technology, Sweden (SmarTS Lab)
+* June 2016 to July 2016: Research Intern 
+  * Grenoble Electrical Engineering Lab, Grenoble, France 
  
 
 
