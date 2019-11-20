@@ -24,12 +24,9 @@ Education
 
 Work experience
 ======
- <img src="/images/IIT Bombay_Logo_JPG_0.jpg" width="70" height="70"> 
-* April 2018- November 2019: Project Research Associate
+* April 2018 - November 2019: Project Research Associate
   * Indian Institute of Technology Bombay, India        
-
-
-* February 2017-December 2017: Research Intern/ M.S Thesis Student   <img src="/images/kth.jpg" width="65"  height="65">
+* February 2017 - December 2017: Research Intern/ M.S Thesis Student  
   * KTH-Royal Institute of Technology, Sweden (SmarTS Lab)
  
 
