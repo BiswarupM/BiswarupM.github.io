@@ -33,8 +33,8 @@ Work experience
  
 
 
-Personal interests
+Certificate
 ======
-* Photography, Painting, Badminton, Cricket, Chess, Singing.
+* Certified by Modelon for System Dynamics Modeling & Simulation for the Controls in Modelica and Dymola Course. 
 
 
