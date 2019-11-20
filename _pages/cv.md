@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-======
+
+
+
+
 Education 
 ======
-
-----
 * Ph.D (joining PSL in January 2020)
 * M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017   
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India, 2015  
@@ -23,10 +24,9 @@ Education
 
 Work experience
 ======
-
-
+ <img src="/images/IIT Bombay_Logo_JPG_0.jpg" width="70" height="70"> 
 * April 2018- November 2019: Project Research Associate
-  * Indian Institute of Technology Bombay, India         <img src="/images/IIT Bombay_Logo_JPG_0.jpg" width="70" height="70"> 
+  * Indian Institute of Technology Bombay, India        
 
 
 * February 2017-December 2017: Research Intern/ M.S Thesis Student   <img src="/images/kth.jpg" width="65"  height="65">
