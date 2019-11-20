@@ -27,12 +27,12 @@ Work experience
 ======
 
 ----
-<img src="/images/IIT Bombay_Logo_JPG_0.jpg" width="70" height="70">    
+   
 
 ----
 
 * April 2018- Present: Project Research Associate
-  * Indian Institute of Technology Bombay, India
+  * Indian Institute of Technology Bombay, India // <img src="/images/IIT Bombay_Logo_JPG_0.jpg" width="70" height="70"> 
 
 
 ----
