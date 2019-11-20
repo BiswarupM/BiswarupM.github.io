@@ -7,7 +7,7 @@ main:
     url: /contact/
     
   - title: "Publications"
-    url: pages/publications/
+    url: /publications/
 
   - title: "Talks"
     url: /talks/   
