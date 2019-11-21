@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Hi there! Welcome to my website"
+title: "Welcome to Biswarup Mukherjee's Website"
+
 excerpt: "About me"
 author_profile: true
 redirect_from: 
