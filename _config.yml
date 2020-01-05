@@ -80,11 +80,12 @@ analytics:
 author:
   name             : "Biswarup Mukherjee"
   avatar           : "559129_tmp.jpg"
-  bio              : "IIT Bombay | ALSETLab-RPI"
-  location         : "India"
-  employer         :
+  bio              : "MINES ParisTech | ALSETLab-RPI | IIT Bombay"
+  location         : "France"
+  employer         : "ARMINES"
   googlescholar    : 
   email            : "bismuk.ece@gmail.com"
+  email            : "biswarup.mukherjee@mines-paristech.fr"
   uri              :
   bitbucket        :
   codepen          :
