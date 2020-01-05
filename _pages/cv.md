@@ -35,7 +35,7 @@ Work experience
 Honors and Awards
 ======  
 * The Endowment Foreign Travel Scholarship, August 2015
-  * This scholarship from University of Calcutta was granted for the studies in a foreign University.
+  * This scholarship from University of Calcutta was granted for the studies at Grenoble INP, France.
 * Auvergne-Rhone-Alpes Scholarship, February 2017
   * Auvergne-Rhone-Alpes Scholarship was granted from Grenoble INP to carry out Master's thesis at KTH, Sweden.
 
