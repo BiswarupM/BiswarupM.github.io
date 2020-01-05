@@ -19,4 +19,9 @@ var addressPoints = [
     58.3978,
     15.5760
   ]
+  [
+    "Chennai, India",
+    13.0827,
+    80.2707
+  ]
 ];
