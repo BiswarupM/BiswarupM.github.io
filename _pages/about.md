@@ -17,6 +17,6 @@ My are of research includes: power systems dynamics, modeling, simulation and op
 
 Feel free to contact me if you're interested in our research at PERSEE.
 
-*I use this platform to share my research activities. This website that is still under development, soon it will be updated. *
+*I use this platform to share my research activities. This website that is still under development, soon it will be updated.*
 
 
