@@ -13,11 +13,11 @@ redirect_from:
 About me
 
 Currently I work as a Doctorant at Centre PERSEE (Centre Procédés, Energies Renouvelables
-et Systèmes Energétiques) of MINES ParisTech - PSL, located in the southern France. Prior joining PSL, I was working as Project Research Associate with IIT Bombay in Mumbai, India. 
+et Systèmes Energétiques) of MINES ParisTech - PSL, located in the southern France. Prior joining PSL, I was working as Project Research Associate with IIT Bombay in Mumbai, India. I also work in collaboration with [ALSETLab] (https://alsetlab.github.io) at the department of Electrical, Computer and Systems Engineering Department of Rensselaer Polytechnic Institute, Troy, NY.
 My are of research includes: power systems dynamics, modeling, simulation and optimization.
 
 Feel free to contact me if you're interested in our research at PERSEE.
 
-*I use this platform to share my research activities. This website that is still under development, soon it will be updated. *
+* I use this platform to share my research activities. This website that is still under development, soon it will be updated. *
 
 
