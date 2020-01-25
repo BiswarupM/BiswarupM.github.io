@@ -9,7 +9,9 @@ author_profile: true
 
 MINES ParisTech - Ecole des Mines de Paris
 
+
 Rue Claude Daunesse
+
 CS 10207
 06904 SOPHIA ANTIPOLIS CEDEX (France)
 
