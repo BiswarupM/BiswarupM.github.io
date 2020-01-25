@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Biswarup Mukherjee's Website"
+title: "Welcome to BM's Website"
 
 excerpt: "About me"
 author_profile: true
@@ -12,8 +12,12 @@ redirect_from:
 
 About me
 
-I am an experienced research professional having a demonstrated history of working in the higher education industry. My area of research includes Power systems dynamics, modeling and simulation.
+Currently I work as a Doctorant at Centre PERSEE (Centre Procédés, Energies Renouvelables
+et Systèmes Energétiques) of MINES ParisTech - PSL, located in the southern France. Prior joining PSL, I was working as Project Research Associate with IIT Bombay in Mumbai, India. 
+My are of research includes: power systems dynamics, modeling, simulation and optimization.
 
-*This website that is still under development, soon it will be updated. I hope you will find this useful.*
+Feel free to contact me if you're interested in our research at PERSEE.
+
+*I use this platform to share my research activities. This website that is still under development, soon it will be updated. *
 
 
