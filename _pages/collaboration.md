@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Collaboration"
-permalink: /Current Collaboration/ 
+permalink: /Collaboration/ 
 author_profile: true
 
 ---
