@@ -3,7 +3,6 @@ layout: archive
 title: "Collaboration"
 permalink: /collaboration/ 
 author_profile: true
-
 ---
 
 ![Alt Text](https://github.com/BiswarupM/BiswarupM.github.io/blob/master/images/cropped-EVA_logo.jpg)  
