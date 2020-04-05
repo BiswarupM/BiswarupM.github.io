@@ -19,3 +19,4 @@ My are of research includes: power systems dynamics, modeling, simulation and op
 *I use this platform to share my research activities. This website is still under development, soon it will be updated.*
 
 
+![logo](https://github.com/BiswarupM/BiswarupM.github.io/blob/master/images/Mines_paristech.png)
