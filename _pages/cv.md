@@ -15,7 +15,7 @@ redirect_from:
 
 Education 
 ======
-* Ph.D (Ongoing) in Electrical Engineering, MINES ParisTech, Université PSL
+* Ph.D in Electrical Engineering, MINES ParisTech, Université PSL, (2020-Ongoing)
 * M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 2017 
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India, 2015
 * B.Sc.(Honours) in Physics, University of Burdwan, India, 2012
@@ -27,9 +27,9 @@ Work experience
 * April 2018 to November 2019: Project Research Associate
   * Indian Institute of Technology Bombay, India.       
 * February 2017 to December 2017: Research Intern/ M.S Thesis Student  
-  * KTH-Royal Institute of Technology, Sweden (SmarTS Lab)
+  * KTH-Royal Institute of Technology, Sweden (Department of Electrical Engineering).
 * June 2016 to July 2016: Research Intern 
-  * Grenoble Electrical Engineering Lab, Grenoble, France 
+  * Grenoble Electrical Engineering Lab, Grenoble, France .
   
   
 Honors and Awards
@@ -40,8 +40,7 @@ Honors and Awards
   * Auvergne-Rhone-Alpes Scholarship was granted from Grenoble INP to carry out Master's thesis at KTH, Sweden.
 
 
-Certificate
+Certificates
 ======
 * Certified by Modelon for System Dynamics Modeling & Simulation for the Controls in Modelica and Dymola Course. 
-
-
+* Certified by CUEF of the Stendhal University - Grenoble 3, for Intensive French Language Course.
