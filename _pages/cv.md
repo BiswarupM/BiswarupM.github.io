@@ -24,6 +24,8 @@ Education
 
 Work experience
 ======
+* January 2020 to Present: Research Engineer
+  * ARMINES - Centre Procédés, Energies Renouvelables et Systèmes Energétiques, France. 
 * April 2018 to November 2019: Project Research Associate
   * Indian Institute of Technology Bombay, India.       
 * February 2017 to December 2017: Research Intern/ M.S Thesis Student  
