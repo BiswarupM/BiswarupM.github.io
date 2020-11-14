@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-Education____
+Education______
 ======
 * Ph.D in Electrical Engineering, MINES ParisTech, Université PSL, (2020-Ongoing)
 * M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France, 2017 
@@ -22,7 +22,7 @@ Education____
 
 
 
-Employment____
+Employment______
 ======
 * January 2020 to Present: Research Engineer
   * ARMINES - Centre Procédés, Energies Renouvelables et Systèmes Energétiques, France. 
@@ -34,7 +34,7 @@ Employment____
   * Grenoble Electrical Engineering Lab, Grenoble, France .
   
   
-Honors and Awards
+Honors and Awards______
 ======  
 * The Endowment Foreign Travel Scholarship, August 2015
   * This scholarship from University of Calcutta was granted for the studies at Grenoble INP, France.
@@ -42,7 +42,7 @@ Honors and Awards
   * Auvergne-Rhone-Alpes Scholarship was granted from Grenoble INP to carry out Master's thesis at KTH, Sweden.
 
 
-Certificates
+Certificates______
 ======
 * Certified by Modelon for System Dynamics Modeling & Simulation for the Controls in Modelica and Dymola Course. 
 * Certified by CUEF of the Stendhal University - Grenoble 3, for Intensive French Language Course.
