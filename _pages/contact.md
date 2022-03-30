@@ -5,6 +5,8 @@ permalink: /contact/
 author_profile: true
 
 ---
+<img align="left" width="400" height="250" src="">
+
 E-mail: biswarup.mukherjee@minesparis.psl.eu 
 
 
