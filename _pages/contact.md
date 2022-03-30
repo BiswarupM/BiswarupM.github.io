@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 
 ---
-<img align="left" width="400" height="250" src="https://github.com/BiswarupM/BiswarupM.github.io/blob/master/_pages/236058291_10159463621814084_9058841322974235832_n.jpg">
+<img align="left" width="400" height="250" src="/_pages/236058291_10159463621814084_9058841322974235832_n.jpg">
 
 E-mail: biswarup.mukherjee@minesparis.psl.eu 
 
