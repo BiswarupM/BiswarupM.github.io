@@ -6,13 +6,14 @@ author_profile: true
 
 ---
 <img align="left" width="400" height="265" src="/_pages/236058291_10159463621814084_9058841322974235832_n.jpg">
-&nbsp;E-mail: biswarup.mukherjee@minesparis.psl.eu 
 
+&nbsp;E-mail: biswarup.mukherjee@minesparis.psl.eu 
 
 &nbsp;E-mail: biswarup.mukherjee@mines-paristech.fr
 
 
 &nbsp;MINES ParisTech - Ecole des Mines de Paris
+
 
 &nbsp;Rue Claude Daunesse, CS 10207
 
