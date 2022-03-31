@@ -15,7 +15,6 @@ redirect_from:
 
 
 # Education______
-======
 * Ph.D. in Electrical Engineering, MINES ParisTech, Université Paris Sciences et Lettres, (2020-Ongoing)
 * M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France, 2017 
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India, 2015
@@ -23,7 +22,7 @@ redirect_from:
 
 
 
-# Employment______
+Employment______
 ======
 * January 2020 to Present: Research Engineer
   * ARMINES - Centre Procédés, Energies Renouvelables et Systèmes Energétiques, France. 
