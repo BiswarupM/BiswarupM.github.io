@@ -22,9 +22,9 @@ author_profile: true
 &nbsp;
 
 <br clear="left"/>
-E-mail: biswarup.mukherjee@minesparis.psl.eu 
+E-mail: <mailto:biswarup.mukherjee@minesparis.psl.eu > 
 <br clear="left"/>
-E-mail: biswarup.mukherjee@mines-paristech.fr
+E-mail: <mailto:biswarup.mukherjee@mines-paristech.fr >
 
 
 * NOTE: I no longer read e-mails through the address from IITB. 
