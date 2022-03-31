@@ -25,4 +25,4 @@ Centre PERSEE [[Google Map](https://www.google.fr/maps/place/MINES+ParisTech+-+C
 
 
 
-* Note: I no longer read e-mails through the addresses from IITB. 
+* Note: I no longer read e-mails through the address from IITB. 
