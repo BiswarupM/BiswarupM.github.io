@@ -25,4 +25,4 @@ Centre PERSEE [[Google Map](https://www.google.fr/maps/place/MINES+ParisTech+-+C
 
 
 
-*NOTE:
+* NOTE:
