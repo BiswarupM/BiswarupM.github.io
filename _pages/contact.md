@@ -17,7 +17,7 @@ author_profile: true
 
 &nbsp;&nbsp;Rue Claude Daunesse, CS 10207
 
-&nbsp;&nbsp;06904 Sophia Antipolis Cedex (France) 
+&nbsp;&nbsp;06904 Sophia Antipolis Cedex, France 
 
 
 <br clear="left"/>
