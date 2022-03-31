@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -27,10 +27,10 @@ redirect_from:
   * ARMINES - Centre Procédés, Energies Renouvelables et Systèmes Energétiques, France. 
 * April 2018 to November 2019: Project Research Associate
   * Indian Institute of Technology Bombay, India.       
-* February 2017 to December 2017: Research Intern/ M.S Thesis Student  
+* February 2017 to December 2017: Research Intern/ M.S. Thesis Student  
   * KTH-Royal Institute of Technology, Department of Electrical Engineering, Sweden.
 * June 2016 to July 2016: Research Intern 
-  * Grenoble Electrical Engineering Lab, Grenoble, France .
+  * Grenoble Electrical Engineering Lab (G2E Lab), France.
   
   
 # Honors and Awards______ 
