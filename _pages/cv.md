@@ -11,8 +11,8 @@ redirect_from:
 
 
 
----
 
+----
 
 # Education______
 * Ph.D. in Electrical Engineering, MINES ParisTech, Université Paris Sciences et Lettres, (2020-Ongoing)
@@ -22,8 +22,7 @@ redirect_from:
 
 
 
-Employment______
-======
+# Employment______
 * January 2020 to Present: Research Engineer
   * ARMINES - Centre Procédés, Energies Renouvelables et Systèmes Energétiques, France. 
 * April 2018 to November 2019: Project Research Associate
@@ -34,16 +33,14 @@ Employment______
   * Grenoble Electrical Engineering Lab, Grenoble, France .
   
   
-# Honors and Awards______
-======  
+# Honors and Awards______ 
 * The Endowment Foreign Travel Scholarship, August 2015
   * This scholarship from University of Calcutta was granted for the studies at Grenoble INP, France.
 * Auvergne-Rhone-Alpes Scholarship, February 2017
   * Auvergne-Rhone-Alpes Scholarship was granted from Grenoble INP to carry out Master's thesis at KTH, Sweden.
 
 
-# Professional services______
-======  
+# Professional services______ 
 * Reviewer of Sustainable Energy, Grids and Networks, Elsevier, (2021-till date)
   * Journal Link: https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks
 * Reviewer of Electric Power Systems Research, Elsevier, (2019-till date)
@@ -53,13 +50,11 @@ Employment______
   
 
 # Certificates______
-======
 * Certified by Modelon for System Dynamics Modeling & Simulation for the Controls in Modelica and Dymola Course. 
 * Certified by CUEF of the Stendhal University - Grenoble 3, for Intensive French Language Course.
 
 
 # Membership______
-======  
 * Professional Member of IEEE.
 
 
