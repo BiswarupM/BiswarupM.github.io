@@ -42,11 +42,11 @@ redirect_from:
 
 # Professional services______ 
 * Reviewer of Sustainable Energy, Grids and Networks, Elsevier, (2021-till date)
-  * Journal Link: https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks
+  * Journal Link: [https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks](https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks)
 * Reviewer of Electric Power Systems Research, Elsevier, (2019-till date)
-  * Journal Link: https://www.journals.elsevier.com/electric-power-systems-research
+  * Journal Link: [https://www.journals.elsevier.com/electric-power-systems-research](https://www.journals.elsevier.com/electric-power-systems-research)
 * Reviewer of Power Systems Computation Conference (PSCC) series, (2020-till date)
-  * Link: https://pscc-central.epfl.ch/
+  * Link: [https://pscc-central.epfl.ch/](https://pscc-central.epfl.ch/)
   
 
 # Certificates______
