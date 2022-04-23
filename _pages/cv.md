@@ -49,12 +49,7 @@ redirect_from:
   * Link: [https://pscc-central.epfl.ch/](https://pscc-central.epfl.ch/)
   
 
-# Certificates______
-* Certified by Modelon for System Dynamics Modeling & Simulation for the Controls in Modelica and Dymola Course. 
+# Membership and Certifications______
+* Professional Member of IEEE, USA.
+* Certified by Modelon AB (Lund, Sweden) for System Dynamics Modeling & Simulation for the Controls in Modelica and Dymola Course. 
 * Certified by CUEF of the Stendhal University - Grenoble 3, for Intensive French Language Course.
-
-
-# Membership______
-* Professional Member of IEEE.
-
-
