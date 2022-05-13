@@ -6,7 +6,12 @@ author_profile: true
 
 ---
 
+{% include base_path %}
 
+
+
+
+----
 ## Current Collaboration
 ![Alt text](/images/EVA_Partners2.png)
 
