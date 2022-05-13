@@ -20,7 +20,7 @@ redirect_from:
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India, 2015
 * B.Sc.(Honours) in Physics, University of Burdwan, India, 2012
 
-Since January 2020 I worke as a Research Engineer at Centre for Processes, Renewable Energies and Energy Systems in association with ARMINES. During the year 2018 and 2019 I was a Project Research Associate at the Department of Chemical Engineering of Indian Institute of Technology Bombay in India. Prior that, from February 2017 to December 2017 I was a Research Intern and M.Sc. thesis Student at the Department of Electrical Engineering of KTH-Royal Institute of Technology in Sweden. I was also with Grenoble Electrical Engineering Lab (G2E Lab) in France as Research Intern during June to July of 2016.
+Since January 2020 I work as a Research Engineer at Centre for Processes, Renewable Energies and Energy Systems in association with ARMINES. During the year 2018 and 2019 I was a Project Research Associate at the Department of Chemical Engineering of Indian Institute of Technology Bombay in India. Prior that, from February 2017 to December 2017 I was a Research Intern and M.Sc. thesis Student at the Department of Electrical Engineering of KTH-Royal Institute of Technology in Sweden. I was also with Grenoble Electrical Engineering Lab (G2E Lab) in France as Research Intern during June to July of 2016.
 I currently serve as reviewer of the following Journal and conferece:
 * Reviewer of Sustainable Energy, Grids and Networks, Elsevier, (2021-till date),
   Journal Link: [https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks](https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks)
