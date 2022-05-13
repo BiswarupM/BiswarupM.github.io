@@ -39,5 +39,5 @@ I currently serve as reviewer of the following Journal and conferece:
 
 ### Membership and Certifications
 * Professional Member of IEEE, USA.
-* Certified by Modelon AB (Lund, Sweden) for System Dynamics Modeling & Simulation for the Controls in Modelica and Dymola Course. 
+* Certified by Modelon AB (Lund, Sweden) for System Dynamics Modeling & Simulation for the Controls in Modelica and Dymola. 
 * Certified by CUEF of the Stendhal University - Grenoble 3, for Intensive French Language Course.
