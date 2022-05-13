@@ -32,7 +32,7 @@ I currently serve as reviewer of the following Journals and conferece:
  
 ### Honors and Awards 
 * The Endowment Foreign Travel Scholarship, August 2015
-  Scholarship from University of Calcutta was granted for the studies at Grenoble INP in France.
+  Scholarship from University of Calcutta for the studies at Grenoble INP in France.
 * Auvergne-Rhone-Alpes Scholarship, February 2017
   Scholarship from Grenoble INP to carry out Master's thesis at KTH in Sweden.
 
