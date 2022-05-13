@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "Short Bio"
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -30,7 +30,7 @@ I currently serve as reviewer of the following Journal and conferece:
   Link: [https://pscc-central.epfl.ch/](https://pscc-central.epfl.ch/)
 
  
- ### Honors and Awards 
+### Honors and Awards 
 * The Endowment Foreign Travel Scholarship, August 2015
   Scholarship from University of Calcutta was granted for the studies at Grenoble INP in France.
 * Auvergne-Rhone-Alpes Scholarship, February 2017
