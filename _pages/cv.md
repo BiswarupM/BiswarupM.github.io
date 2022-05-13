@@ -16,7 +16,7 @@ redirect_from:
 ----
 ### Education
 * Ph.D. in Electrical Engineering, MINES ParisTech, Université Paris Sciences et Lettres, (2020-Ongoing)
-* M.S. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France, 2017 
+* M.Sc. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France, 2017 
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India, 2015
 * B.Sc.(Honours) in Physics, University of Burdwan, India, 2012
 
