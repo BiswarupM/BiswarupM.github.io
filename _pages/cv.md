@@ -23,13 +23,13 @@ redirect_from:
 <p align="justify">
 Since January 2020 I work as a Research Engineer at Centre for Processes, Renewable Energies and Energy Systems in association with [ARMINES](https://www.armines.net/fr). During the year 2018 and 2019 I was a Project Research Associate at the Department of Chemical Engineering of Indian Institute of Technology Bombay in India. Prior that, from February 2017 to December 2017 I was a Research Intern and M.Sc. thesis Student at the Department of Electrical Engineering of [KTH-Royal Institute of Technology](https://www.kth.se/en) in Sweden. I was also with Grenoble Electrical Engineering Lab (G2E Lab) in France as Research Intern during June to July of 2016.
 I currently serve as reviewer of the following Journals and conferece:
+</p>
 * Sustainable Energy, Grids and Networks, Elsevier, (2021-till date),
   Journal Link: [https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks](https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks)
 * Electric Power Systems Research, Elsevier, (2019-till date),
   Journal Link: [https://www.journals.elsevier.com/electric-power-systems-research](https://www.journals.elsevier.com/electric-power-systems-research)
 * Power Systems Computation Conference (PSCC) series, (2020-till date),
   Link: [https://pscc-central.epfl.ch/](https://pscc-central.epfl.ch/)
-</p>
 
  
 ### Honors and Awards 
