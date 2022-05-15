@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
+logo                     : "Mines_paristech.png"
 title_separator          : "-"
 name                     : &name "Biswarup Mukherjee"
 description              : &description "personal description"
