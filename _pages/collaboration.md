@@ -3,7 +3,9 @@ layout: archive
 title: "Research collaboration"
 permalink: /collaboration/ 
 author_profile: true
-
+redirect_from:
+  - /collaboration
+  - /collaboration.html
 ---
 
 {% include base_path %}
