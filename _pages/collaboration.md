@@ -14,7 +14,7 @@ redirect_from:
 
 
 ----
-## Current Collaboration
+## Current collaboration
 ![Alt text](/images/EVA_Partners2.png)
 
 <p align="justify">
