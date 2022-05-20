@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Collaboration"
+title: "Research collaboration"
 permalink: /collaboration/ 
 author_profile: true
 
