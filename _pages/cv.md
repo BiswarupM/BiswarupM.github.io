@@ -14,7 +14,7 @@ redirect_from:
 
 
 ----
-### Education
+### Education and Research Experience
 * Ph.D. in Electrical Engineering, MINES ParisTech, Université Paris Sciences et Lettres, (2020-Ongoing)
 * M.Sc. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France, 2017 
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India, 2015
@@ -33,11 +33,10 @@ I currently serve as reviewer of the following Journals and conferece:
 
  
 ### Honors and Awards 
-* The Endowment Foreign Travel Scholarship, August 2015
-  Scholarship from University of Calcutta for the studies at Grenoble INP in France.
 * Auvergne-Rhone-Alpes Scholarship, February 2017
   Scholarship from Grenoble INP to carry out Master's thesis at KTH in Sweden.
-
+* The Endowment Foreign Travel Scholarship, August 2015
+  Scholarship from University of Calcutta for the studies at Grenoble INP in France.
 
 ### Membership and Certifications
 * Professional Member of IEEE, USA.
