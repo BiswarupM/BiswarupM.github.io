@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 <img align="left" width="400" height="248" src="/_pages/236058291_10159463621814084_9058841322974235832_n.jpg">
-
+<blockquote style="max-width: 80%">
 &nbsp;&nbsp;Centre PERSEE
 
 &nbsp;&nbsp;MINES ParisTech - Ecole des Mines de Paris
@@ -17,7 +17,7 @@ author_profile: true
 &nbsp;&nbsp;06904 Sophia Antipolis Cedex, France 
 
 &nbsp;&nbsp;[Google Map Location](https://www.google.fr/maps/place/Universit%C3%A9+Paris+Sciences+%26+Lettres+(Mines+Paristech)/@43.6142491,7.0504918,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x12cc2b0117f1e2c5:0xb1ea5aeeac7de65d!2sMines+Paris+-+PSL+-+Cemef!8m2!3d43.6147599!4d7.0519561!3m4!1s0x0:0x61b38ed58b045ecf!8m2!3d43.6142491!4d7.0526805?hl=fr)
-
+</blockquote>
 &nbsp;
 
 <br clear="left"/>
