@@ -7,7 +7,7 @@ redirect_from:
   - /collaboration
   - /collaboration.html
 ---
-![Alt text](/images/Collaborations.svg)
+![Alt text](/images/Collaborations2.svg)
 
 ----
 ## Current collaboration
