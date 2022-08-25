@@ -7,7 +7,6 @@ author_profile: true
 ---
 ![Alt text](/images/Talks.svg)
 
-----
 <p align="justify">
 5. "Optimal Planning of SPC and MPC Stations for EVs in MV Distribution Networks" at SUPSI (presented with Prof. F. Sossan), November, 2021, Switzerland.</p>
 <p align="justify">
