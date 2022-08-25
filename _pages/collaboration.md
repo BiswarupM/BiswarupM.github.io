@@ -1,17 +1,13 @@
 ---
 layout: archive
-title: "Research collaboration"
+title: ""
 permalink: /collaboration/ 
 author_profile: true
 redirect_from:
   - /collaboration
   - /collaboration.html
 ---
-
-{% include base_path %}
-
-
-
+![Alt text](/images/Collaborations.svg)
 
 ----
 ## Current collaboration
