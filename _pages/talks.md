@@ -1,15 +1,11 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: ""
 permalink: /talks/
 author_profile: true
 
 ---
-
-{% include base_path %}
-
-
-
+![Alt text](/images/Talks.svg)
 
 ----
 <p align="justify">
