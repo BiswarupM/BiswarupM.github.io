@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-![Alt text](/images/Bio11.pdf)
+![Alt text](/images/Bio12.svg)
 
-
-
-----
+---
 ### Education and Research experience
 * Ph.D. in Electrical Engineering, MINES ParisTech, Université Paris Sciences et Lettres, (2020-Ongoing)
 * M.Sc. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France, 2017 
