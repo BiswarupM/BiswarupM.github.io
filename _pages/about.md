@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "BM's personal website"
+title: ""
 
 excerpt: "About me"
 author_profile: true
@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![Alt text](/images/Home.svg)
 
 Hi there, Welcome to my webpage!
 
