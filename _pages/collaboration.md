@@ -11,7 +11,7 @@ redirect_from:
 
 ----
 ## Current collaboration
-![Alt text](/images/EVA_Partners2.png)
+![Alt text](/images/EVA_Partners1.svg)
 
 <p align="justify">
 Currently I am funded by the <a href="https://evaproject.eu/">EVA Project</a> - supervised by <a href="https://cv.archives-ouvertes.fr/fabrizio-sossan">Prof. Fabrizio Sossan</a> and <a href="http://www.mines-paristech.fr/Services/Annuaire/georges-kariniotakis">Prof. Georges Kariniotakis</a>. The EVA project aims to work on the Optimization of Regional Infrastructure for the Transition to Electric and Connected Autonomous Vehicles. This Project is funded under the "Integrated, Regional Energy Systems" program of ERA-Net Smart Energy System. Through this project I am collaborating with project's academic partners, SUPSI in Switzerland and Eurac Research in Italy. Check out our following research outputs so far:
