@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 
 ---
-![Alt text](/images/Publications2.svg)
+![Alt text](/images/Publications.svg)
 <div>
      <blockquote style="max-width: 80%">
      <p align="justify">   
