@@ -9,7 +9,6 @@ redirect_from:
 ---
 ![Alt text](/images/Collaborations2.svg)
 
-----
 ## Current collaboration
 ![Alt text](/images/EVA_Partners1.svg)
 
