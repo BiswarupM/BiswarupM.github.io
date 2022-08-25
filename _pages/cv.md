@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short Bio"
+title: ""
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+![Alt text](/images/Bio11.pdf)
 
 
 
