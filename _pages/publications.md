@@ -3,8 +3,9 @@ layout: archive
 title: ""
 permalink: /publications/
 author_profile: true
+
 ---
-![Alt text](/images/Publications.svg)
+![Alt text](/images/Publications2.svg)
 <div>
      <blockquote style="max-width: 80%">
      <p align="justify">   
