@@ -7,8 +7,6 @@ redirect_from:
   - /resume
   - /resume.html
 ---
-
-{% include base_path %}
 ![Alt text](/images/Bio12.svg)
 
 ---
