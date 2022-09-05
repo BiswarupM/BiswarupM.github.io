@@ -13,8 +13,6 @@ author_profile: true
      </p>
      </blockquote> 
 
-      <hr>
-
       <h2>Selected Publications</h2>
 
       <script src="https://bibbase.org/service/mendeley/b148566c-bc4a-3e6b-bcd9-eb0286561c6f?jsonp=1"></script>
