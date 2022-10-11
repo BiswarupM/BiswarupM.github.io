@@ -9,7 +9,7 @@ author_profile: true
 
 <img align="left" width="400" height="248" src="/_pages/236058291_10159463621814084_9058841322974235832_n.jpg">
 
-<br clear="right"/>
+
 &nbsp;&nbsp;Centre PERSEE
 
 &nbsp;&nbsp;MINES Paris - Ecole des Mines de Paris
@@ -22,6 +22,7 @@ author_profile: true
 
 
 &nbsp;
+
 
 <br clear="left"/>
 E-mail: <mailto:biswarup.mukherjee@minesparis.psl.eu > 
