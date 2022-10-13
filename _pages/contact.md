@@ -7,7 +7,8 @@ author_profile: true
 ---
 ![Alt text](/images/Contact.svg)
 
-<img align="left" src="/_pages/236058291_10159463621814084_9058841322974235832_n.jpg" style="width: 320px; border-radius: 10px; padding: 18px 8px 20px 18px"/>
+<img align="left" src="/_pages/236058291_10159463621814084_9058841322974235832_n.jpg" style="width: 320px; border-radius: 10px; padding: 8px 20px 8px 8px"/>
+
 Centre PERSEE
 
 MINES Paris - Ecole des Mines de Paris 
