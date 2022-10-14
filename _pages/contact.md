@@ -15,7 +15,7 @@ MINES Paris - Ecole des Mines de Paris
 
 Rue Claude Daunesse, CS 10207 
 
-06904 Sophia Antipolis Cedex,France 
+06904 Sophia Antipolis Cedex, France 
 
 &nbsp;
 
