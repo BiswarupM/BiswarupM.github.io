@@ -26,7 +26,24 @@ I carry out research in the following areas: power systems; electric vehicles; m
 <div style="text-align: right"> 
 <a class="twitter-timeline" data-width="507" data-height="210" data-theme="dark" href="https://twitter.com/bismuk_ece?ref_src=twsrc%5Etfw">Tweets by bismuk_ece</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-  
+ 
+             <p class="header pt-5">Updates</p>
+                <div style="height:250px;overflow:auto;">
+                    <table>
+                        <col width="50px">
+                        <tr>
+                            <td><b>Sep 2022:</b></td>
+                            <td>Article accepted in IEEE TSG on <a href="https://ieeexplore.ieee.org/document/9877870">Optimal Planning</a>! </td>
+                        </tr>
+                        <tr>
+                            <td><b>Jan 2020:</b></td>
+                            <td>Research begins at Mines Paris at the <a
+                                    href="https://www.persee.minesparis.psl.eu/Accueil/Presentation/">Centre PERSEE!</a></td>
+                        </tr>
+                    </table>
+                </div>
+ 
+ 
 <div style="text-align: right"> 
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
