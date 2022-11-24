@@ -23,9 +23,10 @@ I carry out research in the following areas: power systems; electric vehicles; m
 
 *I use this platform to share my research activities. This website is still under development, soon it will be updated.*
 
-
-
-
+<div style="text-align: left"> 
+<a class="twitter-timeline" data-width="507" data-height="210" data-theme="dark" href="https://twitter.com/bismuk_ece?ref_src=twsrc%5Etfw">Tweets by bismuk_ece</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+  
 <div style="text-align: right"> 
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
