@@ -27,8 +27,8 @@ I carry out research in the following areas: power systems; electric vehicles; m
 <a class="twitter-timeline" data-width="507" data-height="210" data-theme="dark" href="https://twitter.com/bismuk_ece?ref_src=twsrc%5Etfw">Tweets by bismuk_ece</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
  
-             <p class="header pt-5">Updates</p>
-                <div style="height:250px;overflow:auto;">
+             
+              <div style="height:250px;overflow:auto;">
                     <table>
                         <col width="50px">
                         <tr>
