@@ -28,20 +28,19 @@ I carry out research in the following areas: power systems; electric vehicles; m
 </div>
  
              
-              <div style="height:250px;overflow:auto;">
-                    <table>
-                        <col width="50px">
-                        <tr>
-                            <td><b>Sep 2022:</b></td>
-                            <td>Article accepted in IEEE TSG on <a href="https://ieeexplore.ieee.org/document/9877870">Optimal Planning</a>! </td>
-                        </tr>
-                        <tr>
-                            <td><b>Jan 2020:</b></td>
-                            <td>Research begins at Mines Paris at the <a
-                                    href="https://www.persee.minesparis.psl.eu/Accueil/Presentation/">Centre PERSEE!</a></td>
-                        </tr>
-                    </table>
-                </div>
+<div style="height:250px;overflow:auto;">
+<table>
+<col width="50px">
+<tr>
+<td><b>Sep 2022:</b></td>
+<td>Article accepted in IEEE TSG on <a href="https://ieeexplore.ieee.org/document/9877870">Optimal Planning</a>! </td>
+</tr>
+<tr>
+<td><b>Jan 2020:</b></td>
+<td>Research begins at Mines Paris at the <a href="https://www.persee.minesparis.psl.eu/Accueil/Presentation/">Centre PERSEE!</a></td>
+</tr>
+</table>
+</div>
  
  
 <div style="text-align: right"> 
