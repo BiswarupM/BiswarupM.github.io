@@ -26,7 +26,18 @@ I carry out research in the following areas: power systems; electric vehicles; m
 <div style="text-align: right"> 
 <a class="twitter-timeline" data-width="507" data-height="210" data-theme="dark" href="https://twitter.com/bismuk_ece?ref_src=twsrc%5Etfw">Tweets by bismuk_ece</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
- 
+
+</div>
+<div id="news" style="width:800px;height:200px;overflow-y:scroll;"/>
+<ul>
+<li type=circle>To update
+<li type=circle>To update
+<li type=circle>To update: :P.
+</ul>
+</div><br><br>
+
+
+
 <div style="text-align: right"> 
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
