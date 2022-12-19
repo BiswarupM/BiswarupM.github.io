@@ -9,7 +9,7 @@ author_profile: true
 <div>
      <blockquote style="max-width: 80%">
      <p align="justify">   
-     Some of my publications related to power systems modeling, simulation & optimization are listed below. All publications are open access through <a href="https://hal.archives-ouvertes.fr/search/index/?q=%2A&authIdPerson_i=1106213">HAL</a>.
+     Some of my publications related to power systems modeling, simulation & optimization are listed below. All publications are open access through <a href="https://cv.archives-ouvertes.fr/biswarup-mukherjee">HAL</a>.
      </p>
      </blockquote> 
 
