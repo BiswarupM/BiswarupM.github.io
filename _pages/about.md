@@ -14,7 +14,7 @@ redirect_from:
 Hi there, Welcome to my webpage!
 
 <p align="justify">
-I am a researcher interested in the integration of renewable resources with power and energy systems. I was born in India in 1992. Currently, I work at <a href="http://www.persee.mines-paristech.fr/Accueil/Presentation/">Centre PERSEE</a> of MINES ParisTech - <a href="https://www.psl.eu/en">Université Paris Sciences et Lettres (PSL)</a>, located in the southern France. Prior to joining PSL, I was with <a href="http://iitb.ac.in/">IIT Bombay</a> in India. I've remained a member and collaborator at <a href="https://alsetlab.github.io">ALSETLab</a> under the Electrical, Computer and Systems Engineering Department of Rensselaer Polytechnic Institute in NY, USA.
+I am a researcher interested in the integration of renewable resources with power and energy systems. I was born in India in 1992. I was affiliated with the <a href="http://www.persee.mines-paristech.fr/Accueil/Presentation/">Centre PERSEE</a> of MINES ParisTech - <a href="https://www.psl.eu/en">Université Paris Sciences et Lettres (PSL)</a>, located in southern France. Prior to joining PSL, I was associated with the <a href="http://iitb.ac.in/">IIT Bombay</a> in India. I have also been a member and collaborator at <a href="https://alsetlab.github.io">ALSETLab</a> under the Electrical, Computer and Systems Engineering Department of Rensselaer Polytechnic Institute in NY, USA.
 </p>
 
 <p align="justify">
