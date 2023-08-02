@@ -10,7 +10,7 @@ redirect_from:
 ![Alt text](/images/Bio12.svg)
 
 ### Education and Research experience
-* Ph.D. in Electrical Engineering, MINES ParisTech, Université Paris Sciences et Lettres, France 
+* Ph.D. in Energy and Process Engineering, MINES ParisTech, Université Paris Sciences et Lettres, France 
 * M.Sc. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 
 * B.Tech.(Honours) in Electrical Engineering, University of Calcutta, India
 * B.Sc.(Honours) in Physics, University of Burdwan, India
