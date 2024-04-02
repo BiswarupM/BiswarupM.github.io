@@ -9,6 +9,13 @@ author_profile: true
   <p style="margin: 0; color: #fff;">Talks & Presentations</p>
 </div>
 
+<style>
+  @media only screen and (max-width: 600px) {
+    p {
+      font-size: 20px;
+    }
+  }
+</style>
 
 ### Invited
 * 'Optimal Planning of SPC and MPC Stations for EVs in MV Distribution Networks' at SUPSI (presented with Prof. F. Sossan), November, 2021, Mendrisio, Switzerland.
