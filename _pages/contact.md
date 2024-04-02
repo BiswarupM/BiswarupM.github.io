@@ -5,7 +5,9 @@ permalink: /contact/
 author_profile: true
 
 ---
-![Alt text](/images/Contact.svg)
+<div style="display: flex; justify-content: center; align-items: center; background-color: #3498db; color: #fff; padding: 20px; width: 100%; height: 50px; font-size: 30px;">
+  <p style="margin: 0; color: #fff;">Contact</p>
+</div>
 
 <img align="left" src="/_pages/236058291_10159463621814084_9058841322974235832_n.jpg" style="width: 320px; border-radius: 10px; padding: 1px 20px 1px 5px"/>
 
