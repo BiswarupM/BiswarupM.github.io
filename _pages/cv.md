@@ -11,6 +11,14 @@ redirect_from:
   <p style="margin: 0; color: #fff;">Short Bio</p>
 </div>
 
+<style>
+  @media only screen and (max-width: 600px) {
+    p {
+      font-size: 20px;
+    }
+  }
+</style>
+
 ### Education and Research experience
 * Ph.D. in Energy and Process Engineering, MINES ParisTech, Université Paris Sciences et Lettres, France 
 * M.Sc. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 
