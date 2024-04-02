@@ -9,10 +9,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<!---
 ![Alt text](/images/Home.svg)
+-->
 
 <div style="display: inline-block; background-color: #3498db; color: #fff; padding: 20px; text-align: center;">
-  <p>Home</p>
+  <p> BM's Personal website </p>
 </div>
 
 Hi there, Welcome to my webpage!
