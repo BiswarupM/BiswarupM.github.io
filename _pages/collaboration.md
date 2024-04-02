@@ -7,7 +7,9 @@ redirect_from:
   - /collaboration
   - /collaboration.html
 ---
-![Alt text](/images/Collaborations2.svg)
+<div style="display: flex; justify-content: center; align-items: center; background-color: #3498db; color: #fff; padding: 20px; width: 100%; height: 50px; font-size: 30px;">
+  <p style="margin: 0; color: #fff;">Research collaboration</p>
+</div>
 
 ### Current collaboration
 ![Alt text](/images/EVA_Partners1.svg)
