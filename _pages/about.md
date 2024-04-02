@@ -12,7 +12,7 @@ redirect_from:
 ![Alt text](/images/Home.svg)
 
 <div style="width: 200px; height: 200px; background-color: #3498db; color: #fff; padding: 20px;">
-  <p align="center">Your text here</p>
+  <p align="center">Home</p>
 </div>
 
 Hi there, Welcome to my webpage!
