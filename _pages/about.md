@@ -15,7 +15,7 @@ redirect_from:
 -->
 
 <div style="display: flex; justify-content: center; align-items: center; background-color: #3498db; color: #fff; padding: 20px; width: 100%; height: 50px; font-size: 30px;">
-  <p style="margin: 0;">BM's Personal website</p>
+  <p style="margin: 0; color: #fff;">BM's Personal website</p>
 </div>
 
 Hi there, Welcome to my webpage!
