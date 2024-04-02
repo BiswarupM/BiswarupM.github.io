@@ -11,6 +11,14 @@ redirect_from:
   <p style="margin: 0; color: #fff;">Research collaboration</p>
 </div>
 
+<style>
+  @media only screen and (max-width: 600px) {
+    p {
+      font-size: 20px;
+    }
+  }
+</style>
+
 ### Current collaboration
 ![Alt text](/images/EVA_Partners1.svg)
 
