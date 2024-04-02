@@ -11,7 +11,7 @@ redirect_from:
 ---
 ![Alt text](/images/Home.svg)
 
-<div style="width: 200px; height: 200px; background-color: #3498db; color: #fff; padding: 20px;">
+<div style="width: 200px; height: 20px; background-color: #3498db; color: #fff; padding: 5px;">
   <p align="center">Home</p>
 </div>
 
