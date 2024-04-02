@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 
 ---
-![Alt text](/images/Publications.svg)
+<div style="display: flex; justify-content: center; align-items: center; background-color: #3498db; color: #fff; padding: 20px; width: 100%; height: 50px; font-size: 30px;">
+  <p style="margin: 0; color: #fff;">Publications</p>
+</div>
 <div>
      <blockquote style="max-width: 80%">
      <p align="justify">   
