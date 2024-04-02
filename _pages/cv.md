@@ -7,7 +7,9 @@ redirect_from:
   - /resume
   - /resume.html
 ---
-![Alt text](/images/Bio12.svg)
+<div style="display: flex; justify-content: center; align-items: center; background-color: #3498db; color: #fff; padding: 20px; width: 100%; height: 50px; font-size: 30px;">
+  <p style="margin: 0; color: #fff;">Short Bio</p>
+</div>
 
 ### Education and Research experience
 * Ph.D. in Energy and Process Engineering, MINES ParisTech, Université Paris Sciences et Lettres, France 
