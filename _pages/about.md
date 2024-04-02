@@ -14,7 +14,7 @@ redirect_from:
 ![Alt text](/images/Home.svg)
 -->
 
-<div style="display: inline-block; background-color: #3498db; color: #fff; padding: 20px; text-align: center; width: auto; height: auto; font-size: 18px;">
+<div style="display: inline-block; background-color: #3498db; color: #fff; padding: 10px; text-align: center; width: auto; height: auto; font-size: 18px;">
   <p> BM's Personal website </p>
 </div>
 
