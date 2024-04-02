@@ -18,6 +18,14 @@ redirect_from:
   <p style="margin: 0; color: #fff;">BM's Personal website</p>
 </div>
 
+<style>
+  @media only screen and (max-width: 600px) {
+    p {
+      font-size: 20px;
+    }
+  }
+</style>
+
 Hi there, Welcome to my webpage!
 
 <p align="justify">
