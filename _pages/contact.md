@@ -9,6 +9,14 @@ author_profile: true
   <p style="margin: 0; color: #fff;">Contact</p>
 </div>
 
+<style>
+  @media only screen and (max-width: 600px) {
+    p {
+      font-size: 20px;
+    }
+  }
+</style>
+
 <img align="left" src="/_pages/236058291_10159463621814084_9058841322974235832_n.jpg" style="width: 320px; border-radius: 10px; padding: 1px 20px 1px 5px"/>
 
 Centre PERSEE
