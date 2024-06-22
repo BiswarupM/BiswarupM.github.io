@@ -5,6 +5,15 @@ permalink: /contact/
 author_profile: true
 
 ---
+
+CEMSE Division, KAUST
+<br clear="left"/>
+E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa> 
+
+* NOTE: I am no longer reading emails sent to the MinesParis address or any older addresses.
+
+
+### Old correspondence
 <div style="display: flex; justify-content: center; align-items: center; background-color: #3498db; color: #fff; padding: 20px; width: 100%; height: 50px; font-size: 30px;">
   <p style="margin: 0; color: #fff;">Contact</p>
 </div>
@@ -37,5 +46,3 @@ E-mail: <mailto:biswarup.mukherjee@minesparis.psl.eu >
 <br clear="left"/>
 E-mail: <mailto:biswarup.mukherjee@mines-paristech.fr >
 
-
-* NOTE: I no longer read e-mails through the address from IITB. 
