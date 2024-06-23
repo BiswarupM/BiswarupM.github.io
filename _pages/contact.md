@@ -28,11 +28,12 @@ E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa>
 <style>
   .container {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     align-items: flex-start;
     margin-bottom: 20px;
   }
   .container img {
+    flex-shrink: 0; /* Prevent the image from shrinking */
     width: 150px; /* Fixed width for desktop */
     margin-right: 20px;
     border-radius: 0; /* Sharp edges */
@@ -43,7 +44,7 @@ E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa>
   @media only screen and (max-width: 600px) {
     .container {
       flex-direction: column;
-      align-items: center;
+      align-items: flex-start; /* Left-align text */
     }
     .container img {
       width: 100%;
@@ -53,7 +54,7 @@ E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa>
     }
     .text-content {
       width: 100%;
-      text-align: center;
+      text-align: left;
     }
     p {
       font-size: 20px;
