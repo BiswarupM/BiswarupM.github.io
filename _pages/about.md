@@ -28,8 +28,8 @@ redirect_from:
 
 <style>
 a {
-    color: blue !important;
-    text-decoration: none; /* Ensure links are not underlined */
+    color: #0077b6 !important;
+    text-decoration: none; 
 }
 </style>
 
