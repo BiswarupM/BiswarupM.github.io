@@ -28,7 +28,6 @@ E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa>
 <style>
   .container {
     display: flex;
-    flex-wrap: nowrap;
     align-items: center;
     margin-bottom: 20px;
   }
