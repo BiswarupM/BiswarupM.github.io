@@ -9,6 +9,13 @@ author_profile: true
   <p style="margin: 0; color: #fff;">Contact</p>
 </div>
 
+<style>
+a {
+    color: #0077b6 !important;
+    text-decoration: none; 
+}
+</style>
+
 CEMSE Division, KAUST
 <br clear="left"/>
 E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa> 
