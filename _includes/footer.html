@@ -22,6 +22,9 @@
 
 
 <div class="page__footer-info">
+  <div class="footer-update">
+    <p>Last updated: {{ site.time | date: "%Y-%m-%d %H:%M %Z" }}</p>
+  </div>
   <div class="page__footer-copyright">
     &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. 
     {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} 
@@ -29,7 +32,11 @@
     <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, 
     a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.
   </div>
-  <div class="page__footer-update">
-    <p>Last updated: {{ site.time | date: "%Y-%m-%d %H:%M %Z" }}</p>
-  </div>
 </div>
+
+
+<style>
+.footer-update {
+  font-size: 0.5em; /* Smaller font size for last updated info */
+}
+</style>
