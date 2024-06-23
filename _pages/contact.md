@@ -29,17 +29,17 @@ E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa>
   .container {
     display: flex;
     flex-wrap: nowrap;
-    align-items: flex-start;
+    align-items: center;
     margin-bottom: 20px;
   }
   .container img {
-    flex-shrink: 0; /* Prevent the image from shrinking */
-    width: 150px; /* Fixed width for desktop */
+    width: auto;
+    width: 100px; /* Fixed width for desktop */
     margin-right: 20px;
-    border-radius: 0; /* Sharp edges */
+    border-radius: 0; 
   }
   .text-content {
-    flex: 1; /* Takes remaining space */
+    flex-grow: 1; /* Takes remaining space */
   }
   @media only screen and (max-width: 600px) {
     .container {
@@ -48,6 +48,7 @@ E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa>
     }
     .container img {
       width: 100%;
+      height: auto; /* Adjust height for mobile view */
       max-width: 320px; /* Adjusted max-width for mobile view */
       margin-right: 0;
       margin-bottom: 20px;
