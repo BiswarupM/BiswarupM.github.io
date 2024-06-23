@@ -22,6 +22,11 @@
 
 
 <div class="page__footer-info">
+@media only screen and (max-width: 600px) {
+  .footer-update {
+    font-size: 0.6em; /* Adjust font size for mobile devices */
+  }
+ }
   <div class="footer-update">
     <p>Last updated: {{ site.time | date: "%Y-%m-%d %H:%M %Z" }}</p>
   </div>
