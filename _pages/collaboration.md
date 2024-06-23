@@ -19,6 +19,13 @@ redirect_from:
   }
 </style>
 
+<style>
+a {
+    color: #0077b6 !important;
+    text-decoration: none; 
+}
+</style>
+
 ### Previous collaboration
 ![Alt text](/images/EVA_Partners1.svg)
 
