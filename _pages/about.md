@@ -26,6 +26,12 @@ redirect_from:
   }
 </style>
 
+<style>
+a {
+    color: blue !important;
+    text-decoration: none; /* Ensure links are not underlined */
+}
+</style>
 
 Hi there, Welcome to my webpage!
 
