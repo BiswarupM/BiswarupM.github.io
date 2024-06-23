@@ -24,17 +24,15 @@
   <div class="footer-column">
     <h3>Social Media</h3>
     <ul>
-      <li><a href="https://twitter.com/YOUR_TWITTER">Twitter</a></li>
-      <li><a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a></li>
-      <li><a href="https://orcid.org/YOUR_ORCID">OrcID</a></li>
+      <li><a href="https://x.com/bismuk_ece">Twitter</a></li>
+      <li><a href="https://www.linkedin.com/in/biswarupm/">LinkedIn</a></li>
     </ul>
   </div>
   <div class="footer-column">
     <h3>Professional</h3>
     <ul>
       <li><a href="https://www.ieee.org/">IEEE</a></li>
-      <li><a href="https://YOUR_IMPORTANT_LINK1">Important Link 1</a></li>
-      {% <li><a href="https://YOUR_IMPORTANT_LINK2">Important Link 2</a></li> %}
+      <li><a href="https://orcid.org/0000-0001-7553-4339">OrcID</a></li>
     </ul>
   </div>
   <div class="footer-column">
@@ -42,13 +40,12 @@
     <ul>
       <li><a href="{{ base_path }}/about">About</a></li>
       <li><a href="{{ base_path }}/contact">Contact</a></li>
-      <li><a href="{{ base_path }}/projects">Projects</a></li>
     </ul>
   </div>
 </div>
 
 <div class="page__footer-update">
-  <p>Last updated: {{ site.time | date: "%Y-%m-%d %H:%M %Z" }}</p>
+  <p>Last updated: {{ site.time | date: "%Y-%m-%d %H:%M %Z" | date: "Europe/Berlin" }}</p>
 </div>
 
 <div class="page__footer-copyright">
@@ -63,6 +60,7 @@
 .page__footer-custom {
   display: flex;
   justify-content: space-between;
+  font-size: 0.9em; /* Ensure consistent font size */
 }
 
 .footer-column {
@@ -85,7 +83,7 @@
 
 .page__footer-update {
   margin-top: 20px;
-  text-align: center;
+  text-align: left; /* Align to left */
   font-size: 0.9em;
   color: #666;
 }
