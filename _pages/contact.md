@@ -33,7 +33,7 @@ E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa>
     margin-bottom: 20px;
   }
   .container img {
-    width: 50px; /* Fixed width for desktop */
+    width: 150px; /* Fixed width for desktop */
     margin-right: 20px;
     border-radius: 0; /* Sharp edges */
   }
@@ -47,7 +47,7 @@ E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa>
     }
     .container img {
       width: 100%;
-      max-width: 120px; /* Adjusted max-width for mobile view */
+      max-width: 320px; /* Adjusted max-width for mobile view */
       margin-right: 0;
       margin-bottom: 20px;
     }
