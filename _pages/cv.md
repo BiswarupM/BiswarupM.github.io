@@ -19,6 +19,13 @@ redirect_from:
   }
 </style>
 
+<style>
+a {
+    color: blue !important;
+    text-decoration: none; /* Ensure links are not underlined */
+}
+</style>
+
 ### Education and Research experience
 * Ph.D. in Energy and Process Engineering, MINES ParisTech, Université Paris Sciences et Lettres, France 
 * M.Sc. in Electrical Engineering for Smart Grids, Grenoble Institute of Technology, France 
