@@ -10,6 +10,13 @@ author_profile: true
 </div>
 
 <style>
+a {
+    color: #0077b6 !important;
+    text-decoration: none; 
+}
+</style>
+
+<style>
   @media only screen and (max-width: 600px) {
     p {
       font-size: 20px;
