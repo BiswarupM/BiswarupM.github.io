@@ -34,8 +34,8 @@ E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa>
 </style>
 
 <img align="left" src="/_pages/236058291_10159463621814084_9058841322974235832_n.jpg" style="width: 320px; border-radius: 10px; padding: 1px 20px 1px 5px"/>
-
 &nbsp;
+
 Centre PERSEE
 
 MINES Paris - Ecole des Mines de Paris 
