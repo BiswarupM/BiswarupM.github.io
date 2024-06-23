@@ -23,7 +23,7 @@ redirect_from:
 ![Alt text](/images/EVA_Partners1.svg)
 
 <p align="justify">
-Until 2023, I was supported by the <a href="https://evaproject.eu/">EVA Project</a> - supervised by Prof. Fabrizio Sossan and <a href="http://www.mines-paristech.fr/Services/Annuaire/georges-kariniotakis">Prof. Georges Kariniotakis</a>. The EVA project aimed to work on the Optimization of Regional Infrastructure for the Transition to Electric and Connected Autonomous Vehicles. This project was funded under the "Integrated, Regional Energy Systems" program of ERA-Net Smart Energy System. Through this project, I collaborated with the project's academic partners, SUPSI in Switzerland and Eurac Research in Italy. Explore the research outputs from this project:
+Until 2023, I was supported by the <a href="https://evaproject.eu/">EVA Project</a> - supervised by Prof. Fabrizio Sossan and <a href="http://www.mines-paristech.fr/Services/Annuaire/georges-kariniotakis">Prof. Georges Kariniotakis</a>. The EVA project aimed to work on the Optimization of Regional Infrastructure for the Transition to Electric and Connected Autonomous Vehicles. This project was funded under the "Integrated, Regional Energy Systems" program of ERA-Net Smart Energy System. Through this project, I collaborated with the project's academic partners, SUPSI in Switzerland and Eurac Research in Italy. Explore the following research outputs from this project:
 </p>
    - Paper on Optimal Planning: [Link](https://arxiv.org/abs/2111.07100) 
    - Paper on Smart Charging of EVs: [Link](https://ieeexplore.ieee.org/document/9639954/)  
