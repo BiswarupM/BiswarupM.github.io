@@ -33,7 +33,7 @@ E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa>
   }
   .container img {
     width: auto;
-    height: 100px; /* Fixed width for desktop */
+    height: 130px; /* Fixed width for desktop */
     margin-right: 20px;
     border-radius: 0; 
   }
