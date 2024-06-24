@@ -72,7 +72,8 @@ E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa>
     <p>Centre PERSEE</p>
     <p>MINES Paris - Ecole des Mines de Paris</p>
     <p>Rue Claude Daunesse, CS 10207</p>
-    <p>06904 Sophia Antipolis Cedex, France</p>
+    <p>06904 Sophia Antipolis Cedex</p>
+    <p>France</p>
   </div>
 </div>
 
