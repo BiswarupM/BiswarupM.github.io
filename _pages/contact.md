@@ -40,6 +40,10 @@ E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa>
   .text-content {
     flex-grow: 1; /* Takes remaining space */
   }
+  .text-content p {
+    margin: 0; /* Remove default margin */
+    line-height: 1.2; /* Adjust line height */
+  }
   @media only screen and (max-width: 600px) {
     .container {
       flex-direction: column;
