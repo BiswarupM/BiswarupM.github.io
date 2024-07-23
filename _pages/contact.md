@@ -18,7 +18,7 @@ a {
 
 CEMSE Division, KAUST
 <br clear="left"/>
-E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa> 
+<!--- E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa> -->
 
 * NOTE: I am no longer reading emails sent to the MinesParis address or any older addresses.
 
