@@ -30,7 +30,7 @@ a {
 </style>
 
 <!-- Bio Section with floated image and justified text -->
-<div style="text-align: justify; font-size: 20px;">
+<p align="justify">
   <img src="/_pages/PSL_Ceremonie_Docteurs_2023_BM.jpeg" 
        alt="PhD Ceremony MINES ParisTech 2023" 
        style="float: right; margin-left: 25px; margin-bottom: 15px; width: 40%; max-width: 320px; border-radius: 8px;">
@@ -49,7 +49,7 @@ a {
   (<a href="https://www.kth.se/eecs">EECS</a>) at 
   <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a> in Sweden in 2017; and earlier, in the summer of 2016, I completed a research internship at the 
   <a href="https://g2elab.grenoble-inp.fr/">Grenoble Electrical Engineering Laboratory (G2E Lab)</a> in France.
-</div>
+</p>
 
 
 I currently serve as a reviewer for several leading journals and conferences in power and energy systems:
