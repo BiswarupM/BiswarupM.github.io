@@ -13,11 +13,19 @@ redirect_from:
 </div>
 
 
-<!-- Global Link Style -->
+<!-- Global style -->
+<style>
+  @media only screen and (max-width: 600px) {
+    p {
+      font-size: 20px;
+    }
+  }
+</style>
+
 <style>
 a {
     color: #0077b6 !important;
-    text-decoration: none;
+    text-decoration: none; 
 }
 </style>
 
@@ -27,16 +35,16 @@ a {
        alt="PhD Ceremony MINES ParisTech 2023" 
        style="float: right; margin-left: 25px; margin-bottom: 15px; width: 40%; max-width: 320px; border-radius: 8px;">
   
-  I graduated with a <strong>Ph.D. in Energy and Process Engineering</strong> from 
+  I graduated with a Ph.D. in Energy and Process Engineering from 
   <a href="https://www.psl.eu/">Université Paris Sciences et Lettres (PSL)</a> in France in 2023, 
-  following an <strong>M.Sc. in Electrical Engineering for Smart Grids</strong> from the 
+  following an M.Sc. in Electrical Engineering for Smart Grids from the 
   <a href="https://www.grenoble-inp.fr/">Grenoble Institute of Technology</a> in France, and a 
-  <strong>B.Tech. in Electrical Engineering</strong> from the 
+  B.Tech. in Electrical Engineering from the 
   <a href="https://www.caluniv.ac.in/">University of Calcutta</a> in India.
 
   <br><br>
 
-  During 2018 and 2019, I served as a <strong>Research Associate</strong> in the Department of Chemical Engineering at the 
+  During 2018 and 2019, I served as a Research Associate in the Department of Chemical Engineering at the 
   <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a>. I undertook my Master’s thesis and research internship at the School of Electrical Engineering and Computer Science 
   (<a href="https://www.kth.se/eecs">EECS</a>) at 
   <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a> in Sweden in 2017; and earlier, in the summer of 2016, I completed a research internship at the 
@@ -46,15 +54,15 @@ a {
 
 I currently serve as a reviewer for several leading journals and conferences in power and energy systems:
 
-- <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59"><strong>IEEE Transactions on Power Systems</strong> (2022–present)</a>  
-- <a href="https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks"><strong>Sustainable Energy, Grids and Networks</strong>, Elsevier (2021–present)</a>  
-- <a href="https://www.journals.elsevier.com/electric-power-systems-research"><strong>Electric Power Systems Research</strong>, Elsevier (2019–present)</a>  
-- <a href="https://pscc-central.epfl.ch/"><strong>Power Systems Computation Conference (PSCC)</strong> series (2020–present)</a>
+- <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59">IEEE Transactions on Power Systems</a>  
+- <a href="https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks"><strong>Sustainable Energy, Grids and Networks</strong>, Elsevier</a>  
+- <a href="https://www.journals.elsevier.com/electric-power-systems-research">Electric Power Systems Research, Elsevier (2019–present)</a>  
+- <a href="https://pscc-central.epfl.ch/">Power Systems Computation Conference (PSCC) series (2020–present)</a>
 
 <h3>Honors and Awards</h3>
 
-- <strong>Auvergne-Rhône-Alpes Scholarship</strong>, February 2017  
+- Auvergne-Rhône-Alpes Scholarship, February 2017  
   Scholarship awarded by Grenoble INP to support my Master’s thesis at KTH Royal Institute of Technology, Sweden.
 
-- <strong>Endowment Foreign Travel Scholarship</strong>, August 2015  
+- Endowment Foreign Travel Scholarship, August 2015  
   Scholarship awarded by the University of Calcutta to support my graduate studies at Grenoble INP, France.
