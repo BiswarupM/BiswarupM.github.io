@@ -30,6 +30,8 @@ a {
 </style>
 
 <!-- Bio Section with floated image and justified text -->
+<h3>Education and Research experience</h3>
+
 <p align="justify">
   <img src="/_pages/PSL_Ceremonie_Docteurs_2023_BM.jpeg" 
        alt="PhD Ceremony MINES ParisTech 2023" 
