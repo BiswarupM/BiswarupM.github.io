@@ -55,7 +55,7 @@ a {
 I currently serve as a reviewer for several leading journals and conferences in power and energy systems:
 
 - <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59">IEEE Transactions on Power Systems</a>  
-- <a href="https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks"><strong>Sustainable Energy, Grids and Networks</strong>, Elsevier</a>  
+- <a href="https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks">Sustainable Energy, Grids and Networks, Elsevier</a>  
 - <a href="https://www.journals.elsevier.com/electric-power-systems-research">Electric Power Systems Research, Elsevier (2019–present)</a>  
 - <a href="https://pscc-central.epfl.ch/">Power Systems Computation Conference (PSCC) series (2020–present)</a>
 
