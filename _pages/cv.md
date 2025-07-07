@@ -35,7 +35,7 @@ a {
 <p align="justify">
   <img src="/_pages/PSL_Ceremonie_Docteurs_2023_BM.jpeg" 
        alt="PhD Ceremony MINES ParisTech 2023" 
-       style="float: right; margin-left: 25px; margin-bottom: 15px; width: 40%; max-width: 320px; border-radius: 8px;">
+       style="float: right; margin-left: 21px; margin-bottom: 12px; width: 42%; max-width: 360px; border-radius: 8px;">
   
   I graduated with a Ph.D. in Energy and Process Engineering from 
   <a href="https://www.psl.eu/">Université Paris Sciences et Lettres (PSL)</a> in France in 2023, 
@@ -48,9 +48,9 @@ a {
 
   During 2018 and 2019, I served as a Research Associate in the Department of Chemical Engineering at the 
   <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a>. I undertook my Master’s thesis and research internship at the School of Electrical Engineering and Computer Science 
-  (<a href="https://www.kth.se/eecs">EECS</a>) at 
+  (EECS) at 
   <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a> in Sweden in 2017; and earlier, in the summer of 2016, I completed a research internship at the 
-  <a href="https://g2elab.grenoble-inp.fr/">Grenoble Electrical Engineering Laboratory (G2E Lab)</a> in France.
+  <a href="https://g2elab.grenoble-inp.fr/">Grenoble Electrical Engineering Laboratory</a> in France.
 </p>
 
 
