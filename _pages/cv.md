@@ -60,7 +60,7 @@ a {
   }
 </style>
 
-<div style="float: right; margin-left: 30px; margin-bottom: 20px; width: 320px;">
+<div style="float: right; margin-left: 30px; margin-bottom: 20px; width: 420px;">
   <img src="/_pages/PSL_Ceremonie_Docteurs_2023_BM.jpeg" alt="PhD Ceremony MINES ParisTech 2023" style="width: 100%; border-radius: 8px;">
 </div>
 
