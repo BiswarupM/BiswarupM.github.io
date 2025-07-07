@@ -30,7 +30,7 @@ a {
 </style>
 
 <!-- Bio Section with floated image and justified text -->
-<div style="text-align: justify; font-size: 16px; line-height: 1.6;">
+<div style="text-align: justify; font-size: 20px;">
   <img src="/_pages/PSL_Ceremonie_Docteurs_2023_BM.jpeg" 
        alt="PhD Ceremony MINES ParisTech 2023" 
        style="float: right; margin-left: 25px; margin-bottom: 15px; width: 40%; max-width: 320px; border-radius: 8px;">
