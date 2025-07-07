@@ -8,9 +8,10 @@ redirect_from:
   - /resume.html
 ---
 <!-- Bio Header -->
-<div style="background-color: #3498db; color: #fff; padding: 20px; width: 100%; font-size: 30px; text-align: center;">
-  Bio
+<div style="display: flex; justify-content: center; align-items: center; background-color: #3498db; color: #fff; padding: 20px; width: 100%; height: 50px; font-size: 30px; margin-bottom: 25px;">
+  <p style="margin: 0; color: #fff;">Bio</p>
 </div>
+
 
 <!-- Global Link Style -->
 <style>
