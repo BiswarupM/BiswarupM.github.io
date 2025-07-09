@@ -46,20 +46,18 @@ a {
 
   <br><br>
 
-  My Post-Doctoral appointments from 2023 to 2025 were at the <a href="https://www.utc.fr/">Université de Technologie de Compiègne (UTC)</a> in France and the <a href="https://cemse.kaust.edu.sa/">CEMSE Division of King Abdullah University of Science and Technology (KAUST)</a> in Saudi Arabia. During 2018 and 2019, I served as a Research Associate in the Department of Chemical Engineering at the 
-  <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a>. I undertook my Master’s thesis and research internship at the School of Electrical Engineering and Computer Science 
-  (EECS) at 
-  <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a> in Sweden in 2017; and earlier, in the summer of 2016, I completed a research internship at the 
-  <a href="https://g2elab.grenoble-inp.fr/">Grenoble Electrical Engineering Laboratory</a> in France.
+  My Post-Doctoral appointments from 2023 to 2025 were at the <a href="https://www.utc.fr/">Université de Technologie de Compiègne (UTC)</a> in France and the <a href="https://cemse.kaust.edu.sa/">CEMSE Division</a> of King Abdullah University of Science and Technology (KAUST) in Saudi Arabia. During 2018 and 2019, I served as a Research Associate in the Department of Chemical Engineering at the Indian Institute of Technology Bombay. I undertook my Master’s thesis and research internship at the School of Electrical Engineering and Computer Science (EECS) at <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a> in Sweden in 2017; and earlier, in the summer of 2016, I completed a research internship at the <a href="https://g2elab.grenoble-inp.fr/">Grenoble Electrical Engineering Laboratory</a> in France. I am a member of <a href="https://www.ieee.org/">IEEE</a>.
 </p>
 
 
 I currently serve as a reviewer for several leading journals and conferences in power and energy systems:
 
-- <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59">IEEE Transactions on Power Systems</a>  
+- <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59">IEEE Transactions on Power Systems</a>
+- <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411">IEEE Transactions on Smart Grid </a>
 - <a href="https://www.sciencedirect.com/journal/sustainable-energy-grids-and-networks">Sustainable Energy, Grids and Networks, Elsevier</a>  
-- <a href="https://www.journals.elsevier.com/electric-power-systems-research">Electric Power Systems Research, Elsevier (2019–present)</a>  
-- <a href="https://pscc-central.epfl.ch/">Power Systems Computation Conference (PSCC) series (2020–present)</a>
+- <a href="https://www.journals.elsevier.com/electric-power-systems-research">Electric Power Systems Research, Elsevier</a>  
+- <a href="https://pscc-central.epfl.ch/">Power Systems Computation Conference (PSCC) series</a>
+- <a href="https://modelica.org/events/">International Modelica Conference series</a>
 
 <h3>Honors and Awards</h3>
 
