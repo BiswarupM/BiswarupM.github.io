@@ -46,7 +46,7 @@ a {
 
   <br><br>
 
-  During 2018 and 2019, I served as a Research Associate in the Department of Chemical Engineering at the 
+  My Post-Doctoral appointments from 2023 to 2025 were at the <a href="https://www.utc.fr/">Université de Technologie de Compiègne (UTC)</a> in France and the <a href="https://cemse.kaust.edu.sa/">CEMSE Division of King Abdullah University of Science and Technology (KAUST)</a> in Saudi Arabia. During 2018 and 2019, I served as a Research Associate in the Department of Chemical Engineering at the 
   <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a>. I undertook my Master’s thesis and research internship at the School of Electrical Engineering and Computer Science 
   (EECS) at 
   <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a> in Sweden in 2017; and earlier, in the summer of 2016, I completed a research internship at the 
