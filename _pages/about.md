@@ -36,7 +36,7 @@ a {
 Hi there, Welcome to my webpage!
 
 <p align="justify">
-My research focuses on the integration of renewable energy resources into modern power and energy systems. Born in India in 1992, I have been affiliated with the Centre PERSEE of <a href="https://psl.eu/en/university/schools/mines-paris-psl">Mines Paris – PSL</a> in southern France, and previously with the <a href="http://iitb.ac.in/">Indian Institute of Technology Bombay </a> in India. I have also been a member and collaborator at <a href="https://alsetlab.github.io">ALSETLab</a> under the Electrical, Computer and Systems Engineering of Rensselaer Polytechnic Institute in NY, USA. Learn more <a href="https://biswarupm.github.io/resume/">here</a>.
+My research focuses on the integration of renewable energy resources into modern power and energy systems. Born in India in 1992, I have been affiliated with the Centre PERSEE of <a href="https://psl.eu/en/university/schools/mines-paris-psl">Mines Paris – PSL</a> in southern France, and previously with the <a href="http://iitb.ac.in/">Indian Institute of Technology Bombay</a> in India. I have also been a member and collaborator at <a href="https://alsetlab.github.io">ALSETLab</a> under the Electrical, Computer and Systems Engineering of Rensselaer Polytechnic Institute in NY, USA. Learn more <a href="https://biswarupm.github.io/resume/">here</a>.
 </p>
 
 <p align="justify">
