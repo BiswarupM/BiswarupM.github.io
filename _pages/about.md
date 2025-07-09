@@ -36,11 +36,11 @@ a {
 Hi there, Welcome to my webpage!
 
 <p align="justify">
-I am a researcher interested in the integration of renewable resources with power and energy systems. I was born in India in 1992. I was affiliated with the <a href="http://www.persee.mines-paristech.fr/Accueil/Presentation/">Centre PERSEE</a> of MINES ParisTech - <a href="https://www.psl.eu/en">Université Paris Sciences et Lettres (PSL)</a>, located in southern France. Prior to joining PSL, I was associated with the <a href="http://iitb.ac.in/">IIT Bombay</a> in India. I have also been a member and collaborator at <a href="https://alsetlab.github.io">ALSETLab</a> under the Electrical, Computer and Systems Engineering Department of Rensselaer Polytechnic Institute in NY, USA.
+My research focuses on the integration of renewable energy resources into modern power and energy systems. Born in India in 1992, I have been affiliated with the Centre PERSEE of <a href="https://psl.eu/en/university/schools/mines-paris-psl">Mines Paris – PSL</a> in southern France, and previously with the <a href="http://iitb.ac.in/">Indian Institute of Technology Bombay </a> in India. I have also been a member and collaborator at <a href="https://alsetlab.github.io">ALSETLab</a> under the Electrical, Computer and Systems Engineering of Rensselaer Polytechnic Institute in NY, USA. Learn more <a href="https://biswarupm.github.io/resume/">here</a>.
 </p>
 
 <p align="justify">
-I carry out research in the following areas: power systems; electric vehicles; modeling and simulation of cyber-physical systems; scheduling and planning for power grids. Feel free to shoot an email if interested in working with us.
+  I am currently working on topics related to power systems, electric vehicles, modeling and simulation of cyber-physical systems, and scheduling and planning for power grids. Feel free to reach out by email if you're interested in collaborating.
 </p>
 
 *I use this platform to share my research activities. This website is still under development, soon it will be updated.*
