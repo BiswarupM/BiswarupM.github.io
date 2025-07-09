@@ -40,7 +40,7 @@ My research focuses on the integration of renewable energy resources into modern
 </p>
 
 <p align="justify">
-  I am currently working on topics related to power systems, electric vehicles, modeling and simulation of cyber-physical systems, and scheduling and planning for power grids. Feel free to reach out by email if you're interested in collaborating.
+  I am currently working on power systems, electric vehicles, modeling and simulation of cyber-physical systems, as well as scheduling and planning for power grids. Feel free to reach out by email if you're interested in collaborating.
 </p>
 
 *I use this platform to share my research activities. This website is still under development, soon it will be updated.*
