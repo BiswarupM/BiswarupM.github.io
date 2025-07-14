@@ -74,7 +74,7 @@ a {
   <img src="/_pages/236058291_10159463621814084_9058841322974235832_n.jpg" alt="Centre PERSEE">
   <div class="text-content">
     <p>Centre PERSEE</p>
-    <p>MINES Paris - Ecole des Mines de Paris</p>
+    <p>Mines Paris - Ecole des Mines de Paris</p>
     <p>Rue Claude Daunesse, CS 10207</p>
     <p>06904 Sophia Antipolis Cedex</p>
     <p>France</p>
