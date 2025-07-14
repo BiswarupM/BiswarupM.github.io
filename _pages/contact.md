@@ -16,14 +16,18 @@ a {
 }
 </style>
 
-CEMSE Division, KAUST
+* NOTE: I am no longer reading emails sent to the MinesParis address or any older addresses.
+  
+### Old correspondence (2024 - 2025)
+<div class="text-content">
+    <p>CEMSE Division (Until May '25) </p>
+    <p>King Abdullah University of Science and Technology (KAUST)</p>
+    <p>Thuwal, 23955-6900, Saudi Arabia</p>
 <br clear="left"/>
 <!--- E-mail: <mailto:biswarup.mukherjee@kaust.edu.sa> -->
+</div>
 
-* NOTE: I am no longer reading emails sent to the MinesParis address or any older addresses.
-
-
-### Old correspondence
+### Old correspondence (2020 - 2023)
 
 <style>
   .container {
