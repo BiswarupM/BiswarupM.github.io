@@ -139,12 +139,7 @@ html:not(.nav-ready) #site-nav .visible-links li:not(:first-child) {
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  document.querySelectorAll(
-    '#site-nav a[href$="/collaboration/"], ' +
-    '#site-nav a[href$="/teaching/"]'
-  ).forEach(function (link) {
-    link.style.visibility = "visible";
-  });
+  document.documentElement.classList.add("nav-ready");
 });
 </script>
 
