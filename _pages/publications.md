@@ -134,11 +134,18 @@ Navigation appearance BibBase loading
 </style>
 
 <div>
+  
+  <!-- Previous boxed and for future use
      <blockquote style="box-sizing: border-box; width: 100%; max-width: 100%; margin: 25px 0 2rem 0; padding: 18px 22px; background-color: #ffffff; border: 1px solid #d5d9de; border-radius: 4px; box-shadow: 0 2px 7px rgba(0, 0, 0, 0.13);">
      <p align="justify" style="margin: 0;">
      Some of my publications related to power systems modeling, simulation & optimization are listed below. All publications are open access through <a href="https://cv.archives-ouvertes.fr/biswarup-mukherjee">HAL</a>.
      </p>
      </blockquote> 
+  -->
+
+     <p align="justify" style="margin: 25px 0 2rem 0;">
+  Some of my publications related to power systems modeling, simulation &amp; optimization are listed below. All publications are open        access through <a href="https://cv.archives-ouvertes.fr/biswarup-mukherjee">HAL</a>.
+    </p>
 
       <h2>Selected Publications</h2>
 
