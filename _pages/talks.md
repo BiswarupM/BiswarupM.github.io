@@ -11,12 +11,13 @@ a {
   text-decoration: none;
 }
 
-/* Original blue title bar */
-.page__content .talks-heading {
+/* Blue title bar */
+.talks-heading {
+  display: block;
   width: 100%;
   box-sizing: border-box;
-  background-color: #3498db;
-  color: white;
+  background: #3498db;
+  color: #ffffff;
   text-align: center;
   font-size: 2rem;
   font-weight: 400;
@@ -25,60 +26,64 @@ a {
   margin: 0 0 2rem 0;
 }
 
-/* Section headings */
-.page__content .talk-section-title {
+/* Invited and Conference/Workshop headings */
+.talk-section-title {
+  display: block;
   font-size: 1.25rem;
   font-weight: 700;
   margin: 1.8rem 0 1rem 0;
 }
 
-/* One rectangular box for each talk */
-.page__content .talk-card {
+/* Separate rectangular box for every talk */
+.talk-card {
   display: block;
   width: 100%;
   box-sizing: border-box;
-  background-color: #ffffff;
-  border: 1px solid #d8dee4;
+  background: #ffffff;
+  border: 1px solid #d5d9de;
   border-radius: 4px;
-  box-shadow: 0 3px 9px rgba(0, 0, 0, 0.14);
+  box-shadow: 0 3px 9px rgba(0, 0, 0, 0.15);
   padding: 1.25rem 1.5rem;
   margin: 0 0 1.15rem 0;
 }
 
-/* Talk title */
-.page__content .talk-card-title {
+/* Title inside each box */
+.talk-card-title {
+  display: block;
   color: #333333;
   font-size: 1.05rem;
   font-weight: 700;
   line-height: 1.45;
-  margin-bottom: 0.4rem;
+  margin: 0 0 0.4rem 0;
 }
 
 /* Venue, date and location */
-.page__content .talk-card-details {
+.talk-card-details {
+  display: block;
   color: #555555;
   font-size: 0.98rem;
   line-height: 1.5;
 }
 
-/* Optional hover effect */
-.page__content .talk-card:hover {
-  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.18);
+/* Hover effect */
+.talk-card:hover {
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.19);
   transform: translateY(-2px);
-  transition: 0.2s ease;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 
-/* Mobile layout */
+/* Phone and tablet adjustment */
 @media only screen and (max-width: 600px) {
-  .page__content .talks-heading {
+  .talks-heading {
     font-size: 1.55rem;
   }
 
-  .page__content .talk-card {
+  .talk-card {
     padding: 1rem;
   }
 }
 </style>
+
 
 <div class="talks-heading">
   Talks &amp; Presentations
