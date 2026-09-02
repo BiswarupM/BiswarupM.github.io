@@ -19,16 +19,14 @@ a {
 /*
 Preventing the temporary navigation stretching while BibBase loads.
 */
-/* 
-  @media only screen and (max-width: 1280px) { 
+
+/*
+Hiding navigation items while BibBase loads.
+Visibility available for the navigation calculation.
 */
-  #site-nav .visible-links a[href$="/collaboration/"],
-  #site-nav .visible-links a[href$="/teaching/"] {
-    visibility: hidden;
-  }
-/* 
-  }
-*/
+html:not(.nav-ready) #site-nav .visible-links li:not(:first-child) {
+  visibility: hidden;
+}
 
 /* BibBase controls */
 #bibbase_header {
