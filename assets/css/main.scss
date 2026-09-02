@@ -37,3 +37,10 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+/* Layout issue */
+.masthead__inner-wrap,
+#main,
+.breadcrumbs,
+.page__footer footer {
+  max-width: 925px !important;
+}
