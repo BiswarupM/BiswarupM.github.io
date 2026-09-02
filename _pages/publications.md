@@ -17,9 +17,7 @@ a {
 }
 
 /*
-Prevent the temporary navigation stretching while BibBase loads.
-Visibility keeps the links' widths available for the navigation
-calculation but prevents them from flashing over the hamburger.
+Preventing the temporary navigation stretching while BibBase loads.
 */
 @media only screen and (max-width: 1280px) {
   #site-nav .visible-links a[href$="/collaboration/"],
@@ -55,7 +53,7 @@ calculation but prevents them from flashing over the hamburger.
   margin: 0 !important;
 }
 
-/* One rectangular card for every imported publication */
+/* One rectangular card for publication */
 #bibbase_body .bibbase_paper {
   display: block;
   box-sizing: border-box;
@@ -127,8 +125,8 @@ calculation but prevents them from flashing over the hamburger.
 </style>
 
 <div>
-     <blockquote style="max-width: 80%">
-     <p align="justify">   
+     <blockquote style="box-sizing: border-box; width: 100%; max-width: 100%; margin: 25px 0 2rem 0; padding: 18px 22px; background-color: #ffffff; border: 1px solid #d5d9de; border-radius: 4px; box-shadow: 0 2px 7px rgba(0, 0, 0, 0.13);">
+     <p align="justify" style="margin: 0;">
      Some of my publications related to power systems modeling, simulation & optimization are listed below. All publications are open access through <a href="https://cv.archives-ouvertes.fr/biswarup-mukherjee">HAL</a>.
      </p>
      </blockquote> 
