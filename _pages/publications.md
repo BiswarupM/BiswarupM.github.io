@@ -17,15 +17,22 @@ a {
 }
 
 /*
-Preventing the temporary navigation stretching while BibBase loads.
+Navigation appearance BibBase loading
 */
 
-/*
-Hiding navigation items while BibBase loads.
-Visibility available for the navigation calculation.
-*/
-html:not(.nav-ready) #site-nav .visible-links li:not(:first-child) {
-  visibility: hidden;
+/* M */
+@media only screen and (max-width: 600px) {
+  #site-nav .visible-links li:not(:first-child) {
+    visibility: hidden;
+  }
+}
+
+/* T and c */
+@media only screen and (min-width: 601px) {
+  #site-nav .visible-links a[href$="/collaboration/"],
+  #site-nav .visible-links a[href$="/teaching/"] {
+    visibility: hidden;
+  }
 }
 
 /* BibBase controls */
@@ -137,10 +144,5 @@ html:not(.nav-ready) #site-nav .visible-links li:not(:first-child) {
 
       <script src="https://bibbase.org/service/mendeley/b148566c-bc4a-3e6b-bcd9-eb0286561c6f?jsonp=1"></script>
 
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  document.documentElement.classList.add("nav-ready");
-});
-</script>
 
 </div>
