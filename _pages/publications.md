@@ -143,13 +143,12 @@ Navigation appearance BibBase loading
      </blockquote> 
   -->
 
-     <p align="justify" style="margin: 25px 0 2rem 0;">
-  Some publications related to power systems modeling, simulation &amp; applied optimization are listed below. All publications are open        access through <a href="https://cv.archives-ouvertes.fr/biswarup-mukherjee">HAL</a>.
-    </p>
+  <p align="justify" style="margin: 25px 0 2rem 0;">
+  Selected publications in power systems modeling, simulation, and applied optimization are listed below. My complete publication record      and citation profile are available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=6mAbTlUAAAAJ), while open-access     versions can be accessed through [HAL](https://cv.archives-ouvertes.fr/biswarup-mukherjee).
+  </p>
 
-      <h2>Selected Publications</h2>
+  <h2>Selected Publications</h2>
 
-      <script src="https://bibbase.org/service/mendeley/b148566c-bc4a-3e6b-bcd9-eb0286561c6f?jsonp=1"></script>
-
+  <script src="https://bibbase.org/service/mendeley/b148566c-bc4a-3e6b-bcd9-eb0286561c6f?jsonp=1"></script>
 
 </div>
