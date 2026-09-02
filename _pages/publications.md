@@ -34,4 +34,15 @@ a {
 
       <script src="https://bibbase.org/service/mendeley/b148566c-bc4a-3e6b-bcd9-eb0286561c6f?jsonp=1"></script>
 
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(
+    '#site-nav a[href$="/collaboration/"], ' +
+    '#site-nav a[href$="/teaching/"]'
+  ).forEach(function (link) {
+    link.style.visibility = "visible";
+  });
+});
+</script>
+
 </div>
