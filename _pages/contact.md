@@ -16,7 +16,7 @@ a {
 }
 </style>
 
-* NOTE: I am no longer reading emails sent to the MinesParis address or any older addresses.
+Please Note: I am no longer reading emails sent to the MinesParis address or any older addresses.
   
 ### Old correspondence (2024 - 2025)
 <div class="text-content">
