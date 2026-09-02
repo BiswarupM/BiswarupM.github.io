@@ -19,12 +19,16 @@ a {
 /*
 Preventing the temporary navigation stretching while BibBase loads.
 */
-@media only screen and (max-width: 1280px) {
+/* 
+  @media only screen and (max-width: 1280px) { 
+*/
   #site-nav .visible-links a[href$="/collaboration/"],
   #site-nav .visible-links a[href$="/teaching/"] {
     visibility: hidden;
   }
-}
+/* 
+  }
+*/
 
 /* BibBase controls */
 #bibbase_header {
