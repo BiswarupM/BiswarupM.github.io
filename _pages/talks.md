@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Talks & Presentations
-
 <style>
 a {
   color: #0077b6 !important;
