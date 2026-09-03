@@ -46,15 +46,15 @@
 }
 
 /* Faded landscape background */
-.initial-content {
+#main {
   position: relative;
   isolation: isolate;
 }
 
-.initial-content::before {
+#main::before {
   content: "";
   position: absolute;
-  top: 0;
+  top: -36px;
   left: 50%;
   transform: translateX(-50%);
   width: 100%;
@@ -71,12 +71,17 @@
     ),
     url("/images/site-background.jpg") center top / cover no-repeat;
 
-  z-index: -1;
+  z-index: 0;
   pointer-events: none;
 }
 
+#main > * {
+  position: relative;
+  z-index: 1;
+}
+
 @media (max-width: 600px) {
-  .initial-content::before {
+  #main::before {
     height: 480px;
     background-position: 25% top;
   }
