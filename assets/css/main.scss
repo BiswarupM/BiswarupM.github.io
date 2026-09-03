@@ -59,7 +59,7 @@
   transform: translateX(-50%);
   width: 100%;
   max-width: 925px;
-  height: 650px;
+  height: 220px;
 
   background:
     linear-gradient(
@@ -82,7 +82,7 @@
 
 @media (max-width: 600px) {
   #main::before {
-    height: 480px;
+    height: 220px;
     background-position: 25% top;
   }
 }
