@@ -44,3 +44,40 @@
 .page__footer footer {
   max-width: 925px !important;
 }
+
+/* Faded landscape background */
+.initial-content {
+  position: relative;
+  isolation: isolate;
+}
+
+.initial-content::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 1280px;
+  height: 650px;
+
+  background:
+    linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.72) 0%,
+      rgba(255, 255, 255, 0.84) 45%,
+      rgba(255, 255, 255, 0.96) 78%,
+      #ffffff 100%
+    ),
+    url("/images/site-background.webp") center top / cover no-repeat;
+
+  z-index: -1;
+  pointer-events: none;
+}
+
+@media (max-width: 600px) {
+  .initial-content::before {
+    height: 480px;
+    background-position: 25% top;
+  }
+}
