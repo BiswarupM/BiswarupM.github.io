@@ -58,7 +58,8 @@
   left: 50%;
   transform: translateX(-50%);
   width: 100%;
-  max-width: 925px;
+
+  -width: 925px;
   height: 220px;
 
   background:
@@ -71,14 +72,30 @@
     ),
     url("/images/site-background.jpg") center center / cover no-repeat;
 
-  z-index: 0;
+  z-index: -1;
   pointer-events: none;
 }
 
-#main > * {
-  position: relative;
-  z-index: 1;
+/* Keep the header visible */
+.masthead {
+  position: -webkit-sticky !important;
+  position: sticky !important;
+  top: 0;
+  z-index: 1000;
+  background: #ffffff;
 }
+
+/* Keep the sidebar below fixed header */
+@media screen and (min-width: 1024px) {
+  #main > .sidebar.sticky {
+    position: -webkit-sticky !important;
+    position: sticky !important;
+    top: 118px !important;
+    z-index: 10;
+  }
+}
+
+
 
 @media (max-width: 600px) {
   #main::before {
