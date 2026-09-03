@@ -108,6 +108,15 @@ a {
 
 <div class="talk-card">
   <div class="talk-card-title">
+    Coordinating Energy Assets in Smart Cities Using Learning-Based Intelligence
+  </div>
+  <div class="talk-card-details">
+    CESI—UBO &middot; January 2026 &middot; Brest, France
+  </div>
+</div>
+
+<div class="talk-card">
+  <div class="talk-card-title">
     Optimal Planning of SPC and MPC Stations for EVs in MV Distribution Networks
   </div>
   <div class="talk-card-details">
