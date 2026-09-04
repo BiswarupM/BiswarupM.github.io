@@ -100,9 +100,13 @@ a {
 }
 </style>
 
+<!--
 <div class="talks-heading">
   Talks &amp; Presentations
 </div>
+-->
+
+<div class="page__title-bar">Talks &amp; Presentations</div>
 
 <div class="talk-section-title">Invited</div>
 
