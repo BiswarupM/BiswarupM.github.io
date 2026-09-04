@@ -119,18 +119,16 @@
   width: 100%;
   margin: 0 0 24px 0;
 
-  /* Bar */
-  background: linear-gradient(
-    to left,
-    #2387c8 0%,
-    #3498db 55%,
-    rgba(52, 152, 219, 0.08) 100%
-  );
-
+  background: linear-gradient(135deg, #2387c8, #4da3dc);
   color: #ffffff;
+
+  /* Keep the current thinner height */
   padding: 7px 18px;
-  border-radius: 6px;
-  box-shadow: 0 3px 9px rgba(25, 100, 150, 0.16);
+
+  /* Subtle corners, as in the first version */
+  border-radius: 3px;
+
+  box-shadow: 0 3px 10px rgba(25, 100, 150, 0.18);
 
   text-align: center;
   font-size: 1.55em;
@@ -143,6 +141,5 @@
   .page__title-bar {
     padding: 6px 12px;
     font-size: 1.4em;
-    border-radius: 5px;
   }
 }
