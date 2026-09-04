@@ -113,18 +113,45 @@
   margin-top: 8px !important;
 }
 
-/* Modern page title bars */
+/* Modern page title bar */
 .page__title-bar {
-  width: 100%;
   box-sizing: border-box;
-  margin-bottom: 24px;
-  background: linear-gradient(135deg, #2387c8, #4da3dc);
+  width: 100%;
+  margin: 0 0 24px 0;
+
+  background: linear-gradient(
+    to left,
+    #2387c8 0%,
+    #4da3dc 72%,
+    rgba(77, 163, 220, 0.12) 100%
+  );
+
   color: #fff;
-  padding: 10px 20px;
-  border-radius: 3px;
-  box-shadow: 0 3px 10px rgba(25, 100, 150, 0.18);
-  letter-spacing: 0.3px;
+  padding: 7px 18px;
+  border-radius: 3px 0 0 3px;
+  box-shadow: 0 3px 9px rgba(25, 100, 150, 0.16);
+
   text-align: center;
-  font-size: 1.7em;
+  font-size: 1.55em;
   font-weight: 400;
+  line-height: 1.2;
+  letter-spacing: 0.3px;
+}
+
+/* Extend the bar to the background image's right edge */
+@media (min-width: 1024px) {
+  .page__title-bar {
+    width: calc(100% + 18px);
+    margin-right: -18px;
+  }
+}
+
+/* Keep it safely inside the screen on phones */
+@media (max-width: 600px) {
+  .page__title-bar {
+    width: 100%;
+    margin-right: 0;
+    padding: 6px 12px;
+    font-size: 1.4em;
+  }
 }
