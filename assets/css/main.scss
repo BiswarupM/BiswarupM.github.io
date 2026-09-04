@@ -112,3 +112,19 @@
 .bibbase_group {
   margin-top: 8px !important;
 }
+
+/* Modern page title bars */
+.page__title-bar {
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 24px;
+  background: linear-gradient(135deg, #2387c8, #4da3dc);
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 3px;
+  box-shadow: 0 3px 10px rgba(25, 100, 150, 0.18);
+  letter-spacing: 0.3px;
+  text-align: center;
+  font-size: 1.7em;
+  font-weight: 400;
+}
