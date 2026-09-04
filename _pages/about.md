@@ -46,7 +46,7 @@ Born in India, I have been affiliated with the Centre PERSEE of <a href="https:/
 </p>
 
 <p align="justify">
-  My research focuses on the integration of renewable energy resources into modern power and energy systems, spanning electric mobility, cyber-physical system modeling, and power system operations—specifically grid scheduling and planning. Feel free to reach out via email if you're interested in collaborating.
+  My research focuses on the integration of renewable energy resources into modern power and energy systems, spanning electric mobility, cyber-physical system modeling, and power system planning and operations—specifically grid scheduling. Feel free to reach out via email if you're interested in collaborating.
 </p>
 
 
