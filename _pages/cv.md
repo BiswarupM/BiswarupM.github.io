@@ -32,6 +32,46 @@ a {
 }
 </style>
 
+<style>
+.award-card {
+  width: 100%;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border: 1px solid #d5d9de;
+  border-radius: 4px;
+  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.13);
+  padding: 0.9rem 1.1rem;
+  margin: 0 0 0.9rem 0;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.award-card-title {
+  color: #333333;
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.4;
+  margin-bottom: 0.3rem;
+}
+
+.award-card-details {
+  color: #555555;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.award-card:hover {
+  box-shadow: 0 4px 11px rgba(0, 0, 0, 0.17);
+  transform: translateY(-1px);
+}
+
+@media only screen and (max-width: 600px) {
+  .award-card {
+    padding: 0.8rem 0.9rem;
+  }
+}
+</style>
+
 <!-- Bio Section with floated image and justified text -->
 <h3>Education and Research experience</h3>
 
@@ -64,8 +104,20 @@ I often serve as a reviewer for several leading journals and conferences in powe
 
 <h3>Honors and Awards</h3>
 
-- Auvergne-Rhône-Alpes Scholarship, February 2017  
-  Scholarship awarded by Grenoble INP to support my Master’s thesis at KTH Royal Institute of Technology, Sweden.
+<div class="award-card">
+  <div class="award-card-title">
+    Auvergne-Rhône-Alpes Scholarship · February 2017
+  </div>
+  <div class="award-card-details">
+    Scholarship awarded by Grenoble INP to support my Master’s thesis at KTH Royal Institute of Technology, Sweden.
+  </div>
+</div>
 
-- Endowment Foreign Travel Scholarship, August 2015  
-  Scholarship awarded by the University of Calcutta to support my graduate studies at Grenoble INP, France.
+<div class="award-card">
+  <div class="award-card-title">
+    Endowment Foreign Travel Scholarship · August 2015
+  </div>
+  <div class="award-card-details">
+    Scholarship awarded by the University of Calcutta to support my graduate studies at Grenoble INP, France.
+  </div>
+</div>
