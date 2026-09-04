@@ -7,9 +7,14 @@ redirect_from:
   - /collaboration
   - /collaboration.html
 ---
+<!--
 <div style="display: flex; justify-content: center; align-items: center; background-color: #3498db; color: #fff; padding: 20px; width: 100%; height: 50px; font-size: 30px;">
   <p style="margin: 0; color: #fff;">Research collaboration</p>
 </div>
+-->
+
+
+<div class="page__title-bar">Research collaboration</div>
 
 <style>
   @media only screen and (max-width: 600px) {
