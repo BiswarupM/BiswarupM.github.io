@@ -106,7 +106,7 @@ a {
 </div>
 -->
 
-<div class="page__title-bar">Talks &amp; Presentations</div>
+<div class="page__title-bar">Talks &amp; presentations</div>
 
 <div class="talk-section-title">Invited</div>
 
