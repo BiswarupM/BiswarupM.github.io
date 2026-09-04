@@ -93,7 +93,7 @@ a {
 </p>
 
 
-I often serve as a reviewer for several leading journals and conferences in power and energy systems:
+I often serve as a reviewer for the following leading journals and conferences in power and energy systems:
 
 - <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59">IEEE Transactions on Power Systems</a>
 - <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165411">IEEE Transactions on Smart Grid </a>
