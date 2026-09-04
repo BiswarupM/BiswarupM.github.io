@@ -14,13 +14,13 @@ redirect_from:
 ![Alt text](/images/Home.svg)
 -->
 
-<div class="page__title-bar">BM's Personal Website</div>
-
-<!---
+<!-- Previous blue title bar — kept for reference
 <div style="display: flex; justify-content: center; align-items: center; background-color: #3498db; color: #fff; padding: 20px; width: 100%; height: 50px; font-size: 30px;">
   <p style="margin: 0; color: #fff;">BM's Personal website</p>
 </div>
-—->
+-->
+
+<div class="page__title-bar">BM's Personal Website</div>
 
 <style>
   @media only screen and (max-width: 600px) {
