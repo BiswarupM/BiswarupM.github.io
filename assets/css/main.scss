@@ -113,6 +113,19 @@
   margin-top: 8px !important;
 }
 
+/* White rounded box around sidebar contact/social links */
+.author__urls {
+  background: #ffffff;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  padding: 12px 14px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  margin-top: 12px;
+}
+
+.author__urls li {
+  margin-bottom: 6px;
+}
 
 /* Common blue breadcrumb bar for all pages */
 .page__title-bar {
