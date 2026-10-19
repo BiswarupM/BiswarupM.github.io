@@ -13,7 +13,13 @@ redirect_from:
 </div>
 -->
 
-<div class="page__title-bar">Bio</div>
+<div class="page__title-bar">
+  <a href="/">Home</a>
+  <span class="separator">/</span>
+  <span>Resume</span>
+  <span class="separator">/</span>
+  <span>Biography</span>
+</div>
 
 
 <!-- Global style -->
