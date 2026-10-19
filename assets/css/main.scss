@@ -118,18 +118,23 @@
 .page__title-bar {
   background: linear-gradient(to right, #1e88cf, #4aa3e0);
   color: #ffffff;
-  padding: 10px 18px;
+
+  padding: 9px 16px;
+  width: 90%;
+  box-sizing: border-box;
   margin: 0 0 20px 0;
+
   display: flex;
   justify-content: flex-start;
   align-items: center;
   gap: 10px;
+
   text-align: left;
   font-size: 18px;
   font-weight: 400;
-  border-radius: 2px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-  width: 92%;
+
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.12);
 }
 
 .page__title-bar a {
