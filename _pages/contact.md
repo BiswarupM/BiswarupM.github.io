@@ -11,7 +11,13 @@ author_profile: true
 </div>
 -->
 
-<div class="page__title-bar">Contact</div>
+<div class="page__title-bar">
+  <a href="/">Home</a>
+  <span class="separator">/</span>
+  <span>Contact</span>
+  <span class="separator">/</span>
+  <span>Contact details</span>
+</div>
 
 <style>
 a {
