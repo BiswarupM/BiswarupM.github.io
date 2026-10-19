@@ -20,7 +20,13 @@ redirect_from:
 </div>
 -->
 
-<div class="page__title-bar">BM's Personal Website</div>
+<div class="page__title-bar">
+  <a href="/">Home</a>
+  <span class="separator">/</span>
+  <span>About</span>
+  <span class="separator">/</span>
+  <span>BM's personal webpage</span>
+</div>
 
 <style>
   @media only screen and (max-width: 600px) {
