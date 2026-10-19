@@ -13,8 +13,13 @@ redirect_from:
 </div>
 -->
 
-
-<div class="page__title-bar">Research collaboration</div>
+<div class="page__title-bar">
+  <a href="/">Home</a>
+  <span class="separator">/</span>
+  <span>Collaboration</span>
+  <span class="separator">/</span>
+  <span>Research collaboration</span>
+</div>
 
 <style>
   @media only screen and (max-width: 600px) {
