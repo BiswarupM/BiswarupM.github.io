@@ -113,33 +113,34 @@
   margin-top: 8px !important;
 }
 
-/* Modern page title bar */
+
+/* Common blue breadcrumb bar for all pages */
 .page__title-bar {
-  box-sizing: border-box;
-  width: 100%;
-  margin: 0 0 24px 0;
-
-  background: linear-gradient(135deg, #2387c8, #4da3dc);
+  background-color: #3498db;
   color: #ffffff;
+  padding: 12px 20px;
+  width: 100%;
+  box-sizing: border-box;
 
-  /* Keep the current thinner height */
-  padding: 7px 18px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
 
-  /* Subtle corners, as in the first version */
-  border-radius: 3px;
-
-  box-shadow: 0 3px 10px rgba(25, 100, 150, 0.18);
-
-  text-align: center;
-  font-size: 1.55em;
+  text-align: left;
+  font-size: 18px;
   font-weight: 400;
-  line-height: 1.2;
-  letter-spacing: 0.3px;
 }
 
-@media (max-width: 600px) {
-  .page__title-bar {
-    padding: 6px 12px;
-    font-size: 1.4em;
-  }
+.page__title-bar a {
+  color: #ffffff !important;
+  text-decoration: none;
+}
+
+.page__title-bar a:hover {
+  text-decoration: underline;
+}
+
+.page__title-bar .separator {
+  color: #ffffff;
 }
