@@ -15,9 +15,9 @@ redirect_from:
 
 <div class="page__title-bar">
   <a href="/">Home</a>
-  <span class="separator">\</span>
+  <span class="separator">/</span>
   <span>Collaboration</span>
-  <span class="separator">\</span>
+  <span class="separator">/</span>
   <span>Research collaboration</span>
 </div>
 
