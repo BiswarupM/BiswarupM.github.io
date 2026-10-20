@@ -22,9 +22,9 @@ redirect_from:
 
 <div class="page__title-bar">
   <a href="/">Home</a>
-  <span class="separator">\</span>
+  <span class="separator">/</span>
   <span>About</span>
-  <span class="separator">\</span>
+  <span class="separator">/</span>
   <span>BM's personal webpage</span>
 </div>
 
