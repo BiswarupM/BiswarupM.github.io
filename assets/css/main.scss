@@ -114,22 +114,89 @@
 }
 
 
-/* White box around the contact/social links */
-.author__urls {
-  background: #ffffff;
-  border: 1px solid #e6e6e6;
-  border-radius: 10px;
-  padding: 12px 14px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-  margin-top: 12px;
+/* =====================================
+   New rectangular author-profile card
+   ===================================== */
 
-  width: calc(100% + 12px);
-  box-sizing: border-box;
+/* Remove the repeated name below the logo */
+.sidebar .author__name {
+  display: none;
 }
 
-.author__urls li {
-  margin-bottom: 6px;
+@media screen and (min-width: 925px) {
+
+  /* Move the sidebar card down to align with content */
+  #main > .sidebar {
+    margin-top: 95px;
+    opacity: 1;
+  }
+
+  /* One white box around the entire profile */
+  #main > .sidebar > [itemscope] {
+    background: #ffffff;
+    border: 1px solid #e6e6e6;
+    border-radius: 11px;
+    padding: 16px 14px;
+    width: calc(100% + 22px);
+    max-width: 210px;
+    box-sizing: border-box;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.09);
+  }
+
+  /* Circular logo inside the white box */
+  .sidebar .author__avatar {
+    display: block;
+    width: 100%;
+    height: auto;
+    text-align: center;
+  }
+
+  .sidebar .author__avatar img {
+    display: block;
+    width: 100%;
+    max-width: 140px;
+    height: auto;
+    margin: 0 auto 14px;
+  }
+
+  /* Affiliation beneath the logo */
+  .sidebar .author__content {
+    display: block;
+    width: 100%;
+    padding: 0;
+    text-align: center;
+  }
+
+  .sidebar .author__bio {
+    margin: 0 0 14px;
+    font-size: 12px;
+    line-height: 1.5;
+  }
+
+  /* Social links inside the same card */
+  .sidebar .author__urls-wrapper {
+    display: block;
+    width: 100%;
+  }
+
+  .sidebar .author__urls {
+    display: block;
+    position: static;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: transparent;
+    box-shadow: none;
+    box-sizing: border-box;
+  }
+
+  .sidebar .author__urls li {
+    margin-bottom: 6px;
+    white-space: nowrap;
+  }
 }
+
 
 /* Common blue breadcrumb bar for all pages */
 .page__title-bar {
